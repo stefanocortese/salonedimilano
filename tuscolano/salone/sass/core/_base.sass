@@ -1,0 +1,69 @@
+// *************************************
+//
+//   Base
+//   -> Base-level tags (body, p, etc.)
+//
+// *************************************
+
+
+
+html
+  font-size: $base-fontSize
+
+body
+  background: $base-background
+  color: $primary
+  font-family: $base-fontFamily
+  font-size: 100%
+  line-height: $base-lineHeight
+
+
+
+
+// -------------------------------------
+//   Block Content
+// -------------------------------------
+
+p
+  font-size: em($base-fontSize)
+  margin-top: 0
+  margin-bottom: 10px
+
+ul
+  padding-left: 18px
+
+
+// -------------------------------------
+//   Inline Content
+// -------------------------------------
+
+a
+  color: #000
+  text-decoration: none
+  .no-touch &:hover
+    text-decoration: none
+    color: $base-link-color
+
+strong
+  font-family: $font-bold
+
+img
+  max-width: 100%
+  height: auto
+  vertical-align: middle
+
+
+.button, .bottone, input[type="submit"]
+  +button($primary)
+  a
+    color: white
+    .no-touch &:hover
+      color: white
+
+.bottone_arr
+  +button($primary, "arrow")
+
+
+
+
+

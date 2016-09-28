@@ -1,0 +1,38 @@
+.blocchettino-overlay a {
+  color: #a6edea;
+  overflow: hidden;
+  padding: 0 4px 4px; }
+
+.blocchettino-overlay a span {
+  display: inline-block;
+  position: relative;
+  transition: transform 0.3s ease 0s; }
+
+.blocchettino-overlay a span:before {
+  content: attr(data-hover);
+  position: absolute;
+  top: 100%;
+  transform: translate3d(0px, 0px, 0px); }
+
+.blocchettino-overlay a:hover span, .blocchettino-overlay a:focus span {
+  transform: translateY(-100%); }
+
+.blocchettino a {
+  padding: 0 0 3px; }
+
+.blocchettino a:after {
+  background: none repeat scroll 0 0 #fff;
+  content: "";
+  height: 1px;
+  left: 0;
+  opacity: 0;
+  position: absolute;
+  top: 100%;
+  transform: translateY(-10px);
+  transition: height 0.3s ease 0s, opacity 0.3s ease 0s, transform 0.3s ease 0s;
+  width: 100%; }
+
+.blocchettino a:hover:after, .blocchettino a:focus:after {
+  height: 2px;
+  opacity: 1;
+  transform: translateY(0px); }

@@ -1,0 +1,40 @@
+// *************************************
+//
+//   Footer
+//
+// *************************************
+
+.footer
+  clear: both
+  width: 100%
+  background: #222
+  color: white
+  overflow: hidden
+  font-size: 11px
+  a
+    color: white
+    &:hover
+      color: white
+      text-decoration: underline
+  ul
+    list-style: none
+    padding: 0
+    li
+      display: inline
+  .footer-navigation
+    float: left
+    width: 46%
+    padding: 0 2%
+    +breakpoint($phone)
+      width: 96%
+      float: none
+
+  .copyrights
+    float: right
+    width: 46%
+    padding: 0 2%
+    text-align: right
+    +breakpoint($phone)
+      width: 96%
+      float: none
+      text-align: left

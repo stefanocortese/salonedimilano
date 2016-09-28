@@ -1,0 +1,1590 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"whit",
+				"white"
+			],
+			[
+				"pa",
+				"page"
+			],
+			[
+				"is_pa",
+				"is_page_template"
+			],
+			[
+				"tax",
+				"tax-caring-line"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"mo",
+				"mobileCheck2"
+			],
+			[
+				"curr",
+				"current_week"
+			],
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"i",
+				"inherit"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"tablet",
+				"table-bootstrap"
+			],
+			[
+				"fo",
+				"font1"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"me",
+				"menu-item"
+			],
+			[
+				"tab",
+				"tablet-landscape-m"
+			],
+			[
+				"fle",
+				"flex-wrap"
+			],
+			[
+				"back",
+				"background-image"
+			],
+			[
+				"loo",
+				"Lookfactory"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"trans",
+				"transparent"
+			],
+			[
+				"wra",
+				"wrapper-landing"
+			],
+			[
+				"backgrou",
+				"background-image"
+			],
+			[
+				"de",
+				"desktop-md-display"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"colo",
+				"color-bold"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"div",
+				"divisore"
+			],
+			[
+				"WI",
+				"width"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"Regis",
+				"registrazione"
+			],
+			[
+				"remo",
+				"remove"
+			],
+			[
+				"ph",
+				"phone-medium"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"span",
+				"apple-column-span"
+			],
+			[
+				"u",
+				"url_risorsa_gb"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"get",
+				"getCookie"
+			],
+			[
+				"em",
+				"emailmy"
+			],
+			[
+				"send",
+				"canSendCoupon"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"trade",
+				"trade-greci-admin"
+			],
+			[
+				"Tr",
+				"TradeGreciAdmin"
+			],
+			[
+				"user",
+				"user_ID"
+			],
+			[
+				"up",
+				"update"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"v",
+				"idVtiger"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ingre",
+				"ingredienti"
+			],
+			[
+				"single",
+				"ricetta-greci-single"
+			],
+			[
+				"test",
+				"testo_focus"
+			],
+			[
+				"testo",
+				"testo_focus"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"bt",
+				"btn_company"
+			],
+			[
+				"coun",
+				"counter_favs"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"so",
+				"social_list"
+			],
+			[
+				"he",
+				"headers"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"og",
+				"ogtypeImage"
+			],
+			[
+				"th",
+				"the_post"
+			],
+			[
+				"regio",
+				"region"
+			],
+			[
+				"re",
+				"regions"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"ha",
+				"hasClass"
+			],
+			[
+				"br",
+				"breakpoint"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"le",
+				"le-conserve-della-nonna"
+			],
+			[
+				"Smal",
+				"small-tablet"
+			],
+			[
+				"get_cate",
+				"get_the_category"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ti",
+				"tipo_post"
+			],
+			[
+				"pro",
+				"prod_block"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"repl",
+				"substr_replace"
+			],
+			[
+				"txt",
+				"txtChoseSelected"
+			],
+			[
+				"titol",
+				"titoloCenaPerfetta"
+			],
+			[
+				"ste",
+				"step2"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"mood",
+				"moods"
+			],
+			[
+				"bra",
+				"brand_block"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ite",
+				"itemRelate"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"view",
+				"viewNavigation"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"arr",
+				"arrObjCoursesTitle"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"ob",
+				"objtemp"
+			],
+			[
+				"cou",
+				"counterCoursesChoose"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"n",
+				"nVel"
+			],
+			[
+				"ge",
+				"getResult"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"menu",
+				"menus"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"m",
+				"mItems"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"piatti",
+				"piatti_temp"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"ar",
+				"arr_temp"
+			],
+			[
+				"push",
+				"pushed"
+			],
+			[
+				"_id",
+				"_id2"
+			],
+			[
+				"pia",
+				"piatti_temp"
+			],
+			[
+				"r",
+				"resetPerfectDinner"
+			],
+			[
+				"g",
+				"getObjectCompatibility"
+			],
+			[
+				"resi",
+				"resizeTitolo"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wp-content/themes/salone/functions.php",
+			"settings":
+			{
+				"buffer_size": 23382,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/reply/Desktop/functions.php",
+			"settings":
+			{
+				"buffer_size": 21928,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/front-page.php",
+			"settings":
+			{
+				"buffer_size": 2629,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/public/js/plugins.js",
+			"settings":
+			{
+				"buffer_size": 2142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/**\n * Theme functions file\n *\n * Contains handlers for navigation, accessibility, header sizing\n * footer widgets and Featured Content slider\n *\n */\n\n\nfunction removeHoverCSSRule() {\n  if ('createTouch' in document) {\n    try {\n      var ignore = /:hover/;\n      for (var i = 0; i < document.styleSheets.length; i++) {\n        var sheet = document.styleSheets[i];\n        if (!sheet.cssRules) {\n          continue;\n        }\n        for (var j = sheet.cssRules.length - 1; j >= 0; j--) {\n          var rule = sheet.cssRules[j];\n          if (rule.type === CSSRule.STYLE_RULE && ignore.test(rule.selectorText)) {\n            sheet.deleteRule(j);\n          }\n        }\n      }\n    }\n    catch(e) {\n    }\n  }\n}\n( function( $ ) {\n\n	var body    = $( 'body' ),\n		_window = $( window );\n\n\n	if ( _window.width() < 768 ) {\n\n		var mainMenu = $('#main-menu').find('.nav-menu');\n\n		var secondaryNav = $('body').find('#secondary-navigation >div>ul');\n\n		mainMenu.append(secondaryNav.children());\n		secondaryNav.parent().parent().hide();\n		$('.hamb').css('font-size', 0);\n			\n	}\n\n\n	if ( _window.width() <= 1024 ) {\n\n		removeHoverCSSRule();\n\n	}\n\n\n\n	_window.load( function() {\n\n		if (body.is('.page-template-heritage')){\n			var article = $('article');\n			article.each(function(){\n				var _urlImage = $(this).find('img').attr('src');\n				$(this).css({'backgroundImage' : 'url('+ _urlImage+')'});\n				$(this).find('img').remove();\n			});\n			\n		}\n\n\n		if (body.is('.page-template-caring, .page-template-coloring, .page-template-straightening')){\n\n			var div = $('.page-template-caring .main-content .site-content >div, .page-template-coloring .main-content .site-content .coloring-content>div, .page-template-straightening .main-content .site-content > div');\n\n	    \n				div.each(function() {\n\n					var urlImage = $(this).find('img').attr('src');\n\n					if(body.is('.page-template-coloring')){\n\n						//NO ADJUST HEIGHT\n\n						$(this).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('+ urlImage+')'});\n\n					}\n					else{\n\n						$(this).css({'height' : (_window.height() ), 'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('+ urlImage+')'} );\n					}	\n						var that = $(this);\n\n						setTimeout(function(){\n\n							for(var i = 0; i <= 8; i++){\n							    (function(i){\n							        setTimeout(function(){\n\n							        	$(that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')), url('+ urlImage +')'} );\n							            \n							        }, 50 * i);\n							    }(i));\n							}\n						}, 1500);\n\n					\n\n					$(this).find('img').remove();\n\n\n				});\n\n		}\n\n		//HEADER CARING \n\n\n		if (body.is('.tax-caring-line')){\n\n			var _header =  $('.tax-caring-line .header_main');\n\n			var _headerUrlImage = $(_header).css('background-image');\n\n			$(_header).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), '+  _headerUrlImage +''} );\n\n			setTimeout(function(){\n\n				for(var i = 0; i <= 8; i++){\n				    (function(i){\n				        setTimeout(function(){\n\n				        	$(_header).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')), '+ _headerUrlImage +''} );\n\n				        }, 50 * i);\n				    }(i));\n				}\n			}, 1500);\n\n			$(_header).find('img.bgHeader').remove();\n\n		}\n\n\n		if (body.is('.tax-coloring-line, .tax-straightening-line')){\n\n			var header =  $('.tax-coloring-line .header_main,  .tax-straightening-line .header_main');\n\n			var headerUrlImage = $(header).find('img.bgHeader').attr('src');\n\n			$(header).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)), url('+ headerUrlImage +')'} );\n\n			setTimeout(function(){\n\n				for(var i = 0; i <= 8; i++){\n				    (function(i){\n				        setTimeout(function(){\n\n				        	$(header).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')), url('+ headerUrlImage +')'} );\n\n				        }, 50 * i);\n				    }(i));\n				}\n			}, 1500);\n\n			$(header).find('img.bgHeader').remove();\n\n		}\n\n		if (body.is('.post-type-archive') || body.is('.single') || body.is('.tax-straightening-line')){\n\n			var article = $('article');\n\n			\n			article.each(function() {\n\n				var that = this;\n\n				if(_window.width()>767){\n\n					$(that).css({'height' : (_window.height())} );\n\n				}\n\n				var bgUrlImage_1 = $('.extras>div>.benefit_1',that).find('img.benefit_1').attr('src');\n				var bgUrlImage_2 = $('.extras>div>.benefit_2',that).find('img.benefit_2').attr('src');\n				var bgUrlImage_3 = $('.extras>div>.benefit_3',that).find('img.benefit_3').attr('src');\n				var bgUrlKit = $('.extras>div>.kit',that).css('background-image');\n\n				if(_window.width()>767){\n					$('.extras>div>div>div,.extras>div>div>img ', that).css('opacity', 0);\n				}\n				else{\n\n					$('.extras .close').fadeOut(0);\n\n					$('.extras>div> .benefit_1',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)),url('+ bgUrlImage_1 +')'} );\n					$('.extras>div> .benefit_2',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)),url('+ bgUrlImage_2 +')'} );								\n					$('.extras>div> .benefit_3',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)),url('+ bgUrlImage_3 +')'} );\n					$('.extras>div> .kit',that).css({'backgroundImage' : ''+ bgUrlKit +''} );\n					\n									\n					var divExtras = $(this).parent().parent().parent().find('.extras');\n\n					divExtras.css('visibility', 'visible').fadeIn(400);\n\n					setTimeout(function(){\n\n						for(var i = 0; i <= 8; i++){\n						    (function(i){\n							    setTimeout(function(){\n\n									$('.extras>div> .benefit_1',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),url('+ bgUrlImage_1 +')'} );\n									$('.extras>div> .benefit_2',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),url('+ bgUrlImage_2 +')'} );\n									$('.extras>div> .benefit_3',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),url('+ bgUrlImage_3 +')'} );\n									//$('.extras>div> .kit',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),'+ bgUrlKit +''} );\n\n							    }, 50 * i);\n							}(i));\n						}\n\n						$('.extras>div>div>div, .extras>div>div>img', that).addClass('animated fadeIn');\n\n					}, 1500);\n				}\n\n				$('.show-benefit', that).on('click', function(e){\n\n					e.preventDefault();\n\n					$('.back-category').hide(10);\n					$('nav.nav').hide(10);\n					$('.share').hide(10);\n\n					$('.extras>div> .benefit_1',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)),url('+ bgUrlImage_1 +')'} );\n					$('.extras>div> .benefit_2',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)),url('+ bgUrlImage_2 +')'} );								\n					$('.extras>div> .benefit_3',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.0), rgba(0, 0, 0, 0.0)),url('+ bgUrlImage_3 +')'} );\n					$('.extras>div> .kit',that).css({'backgroundImage' : ''+ bgUrlKit +''} );\n					\n									\n					var divExtras = $(this).parent().parent().parent().find('.extras');\n\n					divExtras.css('visibility', 'visible').fadeIn(400);\n\n					setTimeout(function(){\n\n						for(var i = 0; i <= 8; i++){\n						    (function(i){\n							    setTimeout(function(){\n\n									$('.extras>div> .benefit_1',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),url('+ bgUrlImage_1 +')'} );\n									$('.extras>div> .benefit_2',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),url('+ bgUrlImage_2 +')'} );\n									$('.extras>div> .benefit_3',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),url('+ bgUrlImage_3 +')'} );\n									//$('.extras>div> .kit',that).css({'backgroundImage' : 'linear-gradient(rgba(0, 0, 0, 0.'+i+'), rgba(0, 0, 0, 0.'+i+')),'+ bgUrlKit +''} );\n\n							    }, 50 * i);\n							}(i));\n						}\n\n						$('.extras>div>div>div, .extras>div>div>img', that).addClass('animated fadeIn');\n\n					}, 1500);\n\n				});\n\n				$('.extras>div> .benefit_1', this).find('img.benefit_1').remove();\n				$('.extras>div> .benefit_2', this).find('img.benefit_2').remove();\n				$('.extras>div> .benefit_3', this).find('img.benefit_3').remove();\n				\n\n				$('.extras .close').on('click', function(e){\n\n					e.preventDefault();\n\n					if(_window.width()>767){\n\n						$('nav.nav').show(10);\n						$('.back-category').show(10);\n						$('.share').show(10);\n					\n					}\n\n					\n\n					$('.extras>div>div>div, .extras>div>div>img', that).removeClass('animated fadeIn');\n\n					var divExtras = $('.extras');\n\n					divExtras.fadeOut(800).css('visibility', 'hidden');\n				});\n			\n			});\n		\n\n\n		}\n\n\n\n		//HomePage & Heritage VIDEO\n\n\n		if (body.is('.page-template-heritage') || body.is('.page-template-front-page') || body.is('.home')){\n\n			$('#wV').on('click', function(e){\n\n				e.preventDefault();\n\n				$('<div></div>')\n				.attr('class', 'overlayVideo')\n				.css({\n				    position: \"absolute\",\n				    width: \"100%\",\n				    height: \"100%\",\n				    left: 0,\n				    top: 0,\n				    zIndex: 1000000,\n				    background: \"rgba(0,0,0,0.9)\"\n				})\n				.append($('<div />')\n					.attr('class', 'videoWrapper')\n					.css('position', 'relative')\n					.html('<div class=\"video\"><iframe id=\"ytplayer\" type=\"text/html\"  width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ll-6OFqdKns?autoplay=1&disablekb=1&enablejsapi=1&fs=1&showinfo=0&color=white&rel=0\" frameborder=\"0\" allowfullscreen></iframe></div><span class=\"close\"></span>')\n				)\n				.delegate('.close', 'click', function(e){\n					e.preventDefault(); \n            		$('.overlayVideo').fadeOut();\n            		$('#ytplayer').attr('src', '');\n            		$('.overlayVideo').remove();\n				})\n				.fadeIn()\n				.appendTo($(\"body\"));\n\n			});\n			\n\n		}\n\n		\n		var menuVisible = false;\n		\n		$('.mobile >span').on('click',function() {\n		if (menuVisible) {\n			$('#main-menu').fadeOut(50);\n			menuVisible = false;\n			$(this).removeClass('closeHamb').addClass('hamb');\n			$('#main-menu ul ul').hide();\n			$('body').unbind('touchmove');	\n			return;\n		}\n		$('#main-menu').css({'height' : _window.height()}).fadeIn(100);\n			menuVisible = true;\n			$(this).removeClass('hamb').addClass('closeHamb');\n			$('body').bind('touchmove', function(e){e.preventDefault()})\n		});\n		\n		var accordion = $('#main-menu').find('a[href$=\"#\"]');\n\n		$(accordion).on('click', function(){\n\n			$('#main-menu ul ul').slideToggle();\n\n		});	 \n\n\n		//ANIMATED ARTICLE OF SINGLE CATEGORY\n\n\n    if(body.is('.tax-caring-line, .tax-coloring-line, .tax-straightening-line')){\n\n    	$('article').each(function(i) {\n		  \n		  $(this).css({\n\n		  	'-webkit-animation-duration': '0.5s',\n		  	'-webkit-animation-delay': ''+(i * 0.5 +3) +'s',\n		  	'animation-delay': ''+(i * 0.5 +3 ) +'s',\n\n		  });\n\n		}); \n\n	}\n	if(body.is('.page-template-store-locator')){\n\n		function gotPosition(pos){\n\n	        \n	        var data_input = pos.coords.latitude+','+pos.coords.longitude;\n			var latlng = new google.maps.LatLng(pos.coords.latitude, pos.coords.longitude);\n			\n			ajaxCall(data_input,latlng);\n\n		}\n\n		function errorGettingPosition(err){\n		    if(err.code === 1) {\n		    	$('#status').html(\"<span>Non hai autorizzato la geolocalizzazione</span>\").fadeOut(400, function(){\n			      	$(this).children().remove();\n			    });\n		     \n		    } else if(err.code === 2) {\n		    	$('#status').html(\"<span>Posizione non disponibile</span>\").fadeIn(400, function(){\n\n					$(this).delay( 2000 ).fadeOut(400, function(){\n				      	$(this).children().remove();\n					});\n\n				});\n\n		    } else if(err.code === 3) {\n		    	$('#status').html(\"<span>Timeout</span>\").fadeIn(400, function(){\n\n					$(this).delay( 2000 ).fadeOut(400, function(){\n				      	$(this).children().remove();\n					});\n\n				});\n		    } else {\n		    	$('#status').html('<span>'+err.message+'</span>').fadeIn(400, function(){\n\n					$(this).delay( 2000 ).fadeOut(400, function(){\n				      	$(this).children().remove();\n					});\n\n				});\n		    }\n		}\n\n		\n\n		\n\n		function ajaxCall(data_input, _latlng, citta) {\n\n			var latlng = _latlng;\n\n			if(citta){\n\n			    geocoder = new google.maps.Geocoder();\n			    geocoder.geocode({\n			        'address': citta\n			    }, function(results, status) {\n\n				    if (status == google.maps.GeocoderStatus.OK) {\n\n				    	//ELIMINO GLI ELEMNTI DEL FORM E AGGIUNGO LA MAPPA\n\n					    if(_window.width() >767){\n							var height = $(window).height() - 280;\n						}\n						else{\n							var height = $(window).height() - 180;\n						}\n\n					    $('.store-locator-content').css('height', height+'px');\n						$('.store-details').append().fadeOut();\n						$('.store-details').empty();\n						$('.store-locator-content').removeClass('left').addClass('center');\n						$('.storelocator-form').removeClass('right').addClass('center');\n						\n\n					    latlng =  new google.maps.LatLng(results[0].geometry.location.lat(),results[0].geometry.location.lng());\n					    \n					    var data_input = results[0].geometry.location.lat()+','+results[0].geometry.location.lng();\n\n					    var citta_address = citta.split('+');\n					    var zoom = \"\";\n\n					    if(citta_address.length>1){\n					    	zoom = 18;\n					    }\n					    else{\n					    	zoom = 10;\n					    }\n				    \n				    	createMap(data_input, latlng, zoom);\n\n				    \n				    }\n				    else{\n				    	$('#status').append(\"<span>Nessun centro nelle vicinanze</span>\").fadeIn(400, function(){\n							$(this).delay( 2000 ).fadeOut(400, function(){\n				      		$(this).children().remove();\n							}).insertBefore($('form #address'));\n\n						});\n				    }\n				        \n			    });\n			}\n			else{\n\n				createMap(data_input, latlng);\n\n			}\n\n			\n		}\n\n\n		function createMap(data_input, latlng, zoom){\n			//Lo zoom arriva solo con il form e non con geolocalizzazione\n			var _zoom = \"\";\n			if(zoom){\n				 _zoom = zoom\n			}else{\n				_zoom = 10\n			}\n\n			var myOptions = {\n	            zoom: _zoom,\n	            center: latlng,\n	            mapTypeId: google.maps.MapTypeId.ROADMAP\n\n		    };\n	        \n	        var map = new google.maps.Map(document.getElementById(\"map_canvas\"), myOptions);	        \n	        var infowindow = new google.maps.InfoWindow({\n	            content: '',\n	        });\n\n	        //STYLE MAP\n\n	        map.set('styles', [ \n			  {\n			    \"featureType\": \"road.highway\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" }\n			    ]\n			  },{\n			    \"featureType\": \"landscape.natural\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"lightness\": 68 },\n			      { \"gamma\": 0.45 },\n			      { \"color\": \"#4af3ea\" }\n			    ]\n			  },{\n			    \"featureType\": \"water\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#808080\" }\n			    ]\n			  },{\n			    \"featureType\": \"poi.park\",\n			    \"stylers\": [\n			      { \"color\": \"#d5d3cc\" },\n			      { \"lightness\": 15 }\n			    ]\n			  },{\n			    \"featureType\": \"poi.medical\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#dcdcdc\" }\n			    ]\n			  },{\n			    \"featureType\": \"poi.government\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#cecece\" }\n			    ]\n			  },{\n			    \"featureType\": \"road\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" },\n			      { \"weight\": 0.3 }\n			    ]\n			  },{\n			    \"featureType\": \"road.arterial\",\n			    \"elementType\": \"geometry.stroke\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" }\n			    ]\n			  },{\n			    \"featureType\": \"poi.school\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#8a8686\" }\n			    ]\n			  },{\n			    \"featureType\": \"landscape.natural\",\n			    \"stylers\": [\n			      { \"color\": \"#ffffff\" }\n			    ]\n			  },{\n			    \"featureType\": \"poi\",\n			    \"elementType\": \"geometry.stroke\",\n			    \"stylers\": [\n			      { \"color\": \"#dcdcdc\" },\n			      { \"lightness\": 37 }\n			    ]\n			  },{\n			    \"featureType\": \"landscape.natural\",\n			    \"stylers\": [\n			      { \"color\": \"#fafafa\" }\n			    ]\n			  },{\n			  },{\n			  },{\n			    \"featureType\": \"road.arterial\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" },\n			      { \"weight\": 0.5 }\n			    ]\n			  },{\n			    \"featureType\": \"road.highway\",\n			    \"elementType\": \"geometry.stroke\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" },\n			      { \"weight\": 0.7 }\n			    ]\n			  },\n			  {\n			    \"featureType\": \"road\",\n			    \"elementType\": \"geometry.stroke\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" },\n			      { \"weight\": 0.1 },\n			      { \"visibility\": \"simplified\" }\n			    ]\n			  },{\n			    \"featureType\": \"road\",\n			    \"elementType\": \"labels\",\n			    \"stylers\": [\n			      { \"color\": \"#f9f9fa\" },\n			      { \"visibility\": \"off\" }\n			    ]\n			  },{\n			    \"featureType\": \"poi\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#c6c6c6\" }\n			    ]\n			  },{\n			    \"featureType\": \"transit.line\",\n			    \"stylers\": [\n			      { \"visibility\": \"off\" }\n			    ]\n			  },{\n			    \"featureType\": \"water\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#dddddd\" }\n			    ]\n			  },{\n			    \"featureType\": \"administrative\",\n			    \"stylers\": [\n			      { \"visibility\": \"on\" }\n			    ]\n			  },{\n			    \"featureType\": \"road\",\n			    \"elementType\": \"geometry.fill\",\n			    \"stylers\": [\n			      { \"color\": \"#81764e\" },\n			      { \"visibility\": \"simplified\" },\n			      { \"weight\": 0.5 }\n			    ]\n			  },{\n			    \"featureType\": \"landscape\",\n			    \"stylers\": [\n			      { \"color\": \"#eff0f0\" }\n			    ]\n			  }\n			]);\n\n			var parameters = 'brands=836&coords='+data_input+'&distance=25';\n\n			$.ajax({\n			    url: \"http://yourbeautysite.it/api/stores/search.json\",\n			    dataType: 'json',\n			    data: parameters,\n			    async : true,\n			    beforeSend: function(){\n\n			    	$('.searchTitle').fadeOut();\n\n			    	$('form').fadeOut(200, function(){\n\n			    		$(this).removeClass('center').addClass('right').fadeIn(400);\n\n			    	});\n\n			    	$('.geolocalBtn').fadeOut(50);\n			    	$('.overlayMap').fadeIn(150);\n			    	\n			    },\n			    success: function(data) {\n			    	//Visualizza il tasto show-grid\n			    	//$('.show-grid').fadeIn();\n			    	$.each(data, function(i,store){\n\n			            //MARKERS\n			            var marker = new google.maps.Marker({\n		                position: new google.maps.LatLng(store.latitudine, store.longitudine),\n		                map: map,\n		                title: store.nome,\n		                icon: templateUrl+'/public/images/marker.png'\n\n			            });\n			            // when the client clicks on a marker we set the content and bind the position to the marker\n			            google.maps.event.addListener(marker, 'click', function() {\n\n			            	if(store.orario !== undefined){\n			            		var orario = \"\";\n				            	$.each(store.orario, function(i, giorno){\n\n					            	orario +=  i + \" Mattina: \"+ giorno.am + \" - Pomeriggio: \" + giorno.pm+\" <br>\";\n					            		\n					            });\n				            }\n				            \n\n			           \n			              infowindow.setContent('<span class=\"nameStore\">'+store.nome+'</span>' + '<br>'+store.indirizzo+\n			              '<span class=\"dettaglio\">'+\n			              '<a class=\"pulsante\" data-id=\"'+store.uid+'\" '+\n			              'data-lat=\"'+store.latitudine+'\" '+\n			              'data-lng=\"'+store.longitudine+'\" '+\n			              'data-nome=\"'+store.nome+'\" '+\n			              'data-indirizzo=\"'+store.indirizzo+'\" '+\n			              'data-tel=\"'+store.telefono+'\"'+\n			              'data-email=\"'+store.referente_email+'\" '+\n			              'data-orario=\"'+orario+'\" '+\n			              'data-url=\"'+store.url+'\" '+\n			              'href=\"#\">Dettaglio</a>'+\n			              '</span>');\n			              infowindow.setPosition(this.getPosition())\n			              infowindow.setMap(map);\n\n			            });\n\n						//APPENDO GLI ELEMNTI PER LA VISTA A GRID\n						$('<div/>',{\n						    'class'    : 'store-grid-item span3'\n						}).appendTo('.store-grid').html(\n						  '<span class=\"title\">'+store.nome+''+\n						  '<span class=\"address\">'+store.indirizzo+''+\n						  '<span class=\"dettaglio\">'+\n			              '<a class=\"pulsante\" data-id=\"'+store.uid+'\" '+\n			              'data-lat=\"'+store.latitudine+'\" '+\n			              'data-lng=\"'+store.longitudine+'\" '+\n			              'data-nome=\"'+store.nome+'\" '+\n			              'data-indirizzo=\"'+store.indirizzo+'\" '+\n			              'data-orario=\"'+store.orario+'\" '+\n			              'data-url=\"'+store.url+'\" '+\n			              'href=\"#\">Dettaglio</a>'+\n			              '</span>'\n						);\n\n			        });\n			      \n			    },\n			    complete: function(){\n\n			    	$('.overlayMap').fadeOut(150);\n\n			    	$(\"body\").delegate('.dettaglio .pulsante',\"click\", function(){\n\n			    		infowindow.close();\n						\n						var id = $(this).data('id'),\n\n						orario = $(this).data('orario'),\n\n						nome = $(this).data('nome'),\n\n						indirizzo = $(this).data('indirizzo'),\n\n						tel = $(this).data('tel'),\n\n						email = $(this).data('email'),\n\n						sito = $(this).data('url'),\n\n						lat = $(this).data('lat'),\n\n						lng = $(this).data('lng');\n\n						\n						$('.page-template-store-locator').css({\n							'backgroundImage' : 'none',\n							'backgroundColor' : '#000'\n						});\n\n						$('.store-locator-content').removeClass('center').addClass('left');\n\n						$('form').addClass('details');\n\n						google.maps.event.trigger(map, 'resize');\n\n						map.setZoom(17);\n\n    					map.setCenter({lat : lat, lng : lng});\n\n    					$('.store-details').empty();\n\n			        	$('.store-details')\n			        	.append($('<div />')\n						.attr('class', 'store-name')\n						.text(nome)\n						)\n						.append($('<div />')\n						.attr('class', 'store-address')\n						.text(indirizzo)\n						);\n\n						if(tel !== 'undefined'){\n							$('.store-details')\n							.append($('<a />')\n							.attr('href', 'tel:'+tel+'')\n							.attr('class', 'store-tel')\n							.text('tel: '+tel)\n							);\n							\n						}\n\n						if(email != null){\n							$('.store-details')\n							.append($('<a />')\n							.attr('class', 'store-email')\n							.attr('href', 'mailto:'+email+'')\n							.text(email)\n							);\n							\n						}\n\n						if(orario !== 'undefined'){\n							\n							$('.store-details')\n							.append($('<div />')\n							.attr('class', 'store-orario')\n							.html('<span class=\"store-orario-title\">Orario apertura:</span>'+orario)\n							);\n	\n						}\n\n						if(sito !== 'undefined'){\n							$('.store-details')\n							.append($('<div />')\n							.attr('class', 'span12 store-url')\n							.html('<a class=\"pulsante\" href=\"'+sito+'\">visit the site</a>')\n							);\n							\n								/*				\n\n							$('.store-details')\n							.append($('<div />')\n							.attr('class', 'site-link span12')\n							.html('<a class=\"pulsante\" href=\"http://www.tigota.it/\" target=\"_blank\" >Tigotà store</a>')\n							);\n						*/\n\n						}\n\n						//APPENDO I CONTENUTI DETTAGLIO ALLA PAGINA SE MOBILE PRIMA DELLA MAPPA\n\n						if(_window.width()<768){\n							$('.store-details').insertAfter($('#storelocator-form')).fadeIn();\n						}\n						else{\n							$('.store-details').append().fadeIn();\n						}\n\n			        	\n\n\n					});\n					\n					$(\"body\").delegate('.backMap','click', function(){\n\n						$('.store-details').empty();\n\n						$('.store-locator-content').removeClass('left').addClass('center');\n						$('.storelocator-form').removeClass('right').addClass('center');\n\n						$('.store-details').append().fadeOut();\n\n						google.maps.event.trigger(map, 'resize');\n\n						map.setZoom(10);\n\n\n					});\n		\n\n			    },\n			    error: function() {\n			        $('#status').html(\"<span>error</span>\").fadeOut(400, function(){\n			      	  $(this).children().remove();\n			        });\n			    }\n	  		});\n\n		\n		}\n\n  		//GEOLOCAL HTML5\n\n  		$('#geolocalBtn').on(\"click\", function(){\n\n  			if(_window.width() >767){\n				var height = $(window).height() - 280;\n			}else{\n				var height = $(window).height() - 180;\n			}\n\n			$('.store-locator-content').css('height', height+'px');\n\n			navigator.geolocation.getCurrentPosition(gotPosition,errorGettingPosition,{'enableHighAccuracy':true,'timeout':10000,'maximumAge':0});	        \n\n		});\n		$(\"#storelocator-form\").submit(function(e) {\n\n			e.preventDefault();\n\n			var citta = $(this).serialize();\n\n			if(citta !== \"address=\"){\n\n				var data_input = \"brands=836&coords=\";\n\n				ajaxCall(data_input,null,citta);\n			\n			}\n			else{\n\n				$('#status').append(\"<span>Inserisci la città</span>\").fadeIn(400, function(){\n\n					$(this).delay( 2000 ).fadeOut(400, function(){\n				      	$(this).children().remove();\n					});\n\n				});\n			}\n\n		});\n	}\n\n	//SHARE BUTTON\n	function tw_click(width, height,t,u) {\n    var leftPosition, topPosition;\n    //Allow for borders.\n    leftPosition = (window.screen.width / 2) - ((width / 2) + 10);\n    //Allow for title and status bars.\n    topPosition = (window.screen.height / 2) - ((height / 2) + 50);\n    var windowFeatures = \"status=no,height=\" + height + \",width=\" + width + \",resizable=yes,left=\" + leftPosition + \",top=\" + topPosition + \",screenX=\" + leftPosition + \",screenY=\" + topPosition + \",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no\";\n   \n    window.open('https://twitter.com/share?display_url='+u+'&t='+encodeURIComponent(t),'sharer', windowFeatures);\n    return false;\n	}\n\n	function fbs_click(width, height,t,u) {\n    var leftPosition, topPosition;\n    //Allow for borders.\n    leftPosition = (window.screen.width / 2) - ((width / 2) + 10);\n    //Allow for title and status bars.\n    topPosition = (window.screen.height / 2) - ((height / 2) + 50);\n    var windowFeatures = \"status=no,height=\" + height + \",width=\" + width + \",resizable=yes,left=\" + leftPosition + \",top=\" + topPosition + \",screenX=\" + leftPosition + \",screenY=\" + topPosition + \",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no\";\n    \n   \n    window.open('http://www.facebook.com/sharer.php?u='+u+'&t='+encodeURIComponent(t),'sharer', windowFeatures);\n    return false;\n	}\n\n	function pnt_click(width, height,t,u) {\n    var leftPosition, topPosition;\n    //Allow for borders.\n    leftPosition = (window.screen.width / 2) - ((width / 2) + 10);\n    //Allow for title and status bars.\n    topPosition = (window.screen.height / 2) - ((height / 2) + 50);\n    var windowFeatures = \"status=no,height=\" + height + \",width=\" + width + \",resizable=yes,left=\" + leftPosition + \",top=\" + topPosition + \",screenX=\" + leftPosition + \",screenY=\" + topPosition + \",toolbar=no,menubar=no,scrollbars=no,location=no,directories=no\";\n    \n   \n    window.open('http://pinterest.com/pin/create/link/?url='+u+'&t='+encodeURIComponent(t),'sharer', windowFeatures);\n    return false;\n	}\n\n	$('.share').on('click', function(event){\n\n		event.preventDefault();\n\n		if($('.socialBtn').is(':visible')){\n			$('.socialBtn', this).fadeOut();\n		}\n		else{\n\n			$('.socialBtn').fadeIn(400, function(){\n\n				var imgProperty = $(this).parent().parent().find('article.swiper-slide-active').find('img').attr('src'); \n					\n					$('meta[property=\"og:image\"]').attr('content', imgProperty);\n\n				$('.fb', this).on('click', function(){\n\n					var url = $(this).data('url') + \"#\" +  $(this).parent().parent().parent().find('article.swiper-slide-active').data('hash');\n					url.replace('#', '%23');\n					$('meta[property=\"og:url\"]').attr('content', url);\n					fbs_click(400, 300, 'satuweb', url);\n\n					$('.socialBtn').fadeOut();\n\n				});\n\n\n				$('.tw', this).on('click', function(){\n\n					var url = $(this).data('url') + \"#\" + $(this).parent().parent().parent().find('article.swiper-slide-active').data('hash');\n					url.replace('#', '%23');\n					tw_click(400, 300, 'satuweb', url);\n\n					$('.socialBtn').fadeOut();\n\n				});\n\n				$('.pn', this).on('click', function(){\n\n					var url = $(this).data('url') + \"#\" + $(this).parent().parent().parent().find('article.swiper-slide-active').data('hash');\n					url.replace('#', '%23');\n					pnt_click(400, 300, 'satuweb', url);\n\n					$('.socialBtn').fadeOut();\n\n				});\n\n\n\n			});\n\n		}\n\n	});\n\n	} );//END WINDOWLOAD\n} )( jQuery );\n",
+			"file": "/Users/reply/Desktop/cartella senza titolo 9/functions.js",
+			"file_size": 28241,
+			"file_write_time": 131146892040000000,
+			"settings":
+			{
+				"buffer_size": 28239,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/sass/application.sass",
+			"settings":
+			{
+				"buffer_size": 951,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/sass/modules/_prodotto.sass",
+			"settings":
+			{
+				"buffer_size": 2689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/sass/modules/_layout.sass",
+			"settings":
+			{
+				"buffer_size": 45934,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/page-templates/store-locator.php",
+			"settings":
+			{
+				"buffer_size": 1712,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/page-templates/caring.php",
+			"settings":
+			{
+				"buffer_size": 1888,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "wp-content/themes/salone/header.php",
+			"settings":
+			{
+				"buffer_size": 6466,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 6372 files for \"storelocator-it\"\n\n/Users/reply/Documents/WordpressProject/salonedimilano/config.codekit:\n 62214  		\"syntaxCheckerStyle\": 1\n 62215  		},\n 62216: 	\"\\/wp-content\\/themes\\/salone\\/js\\/min\\/storelocator-it-min.js\": {\n 62217  		\"fileType\": 64,\n 62218  		\"ignore\": 1,\n 62219  		\"ignoreWasSetByUser\": 0,\n 62220: 		\"inputAbbreviatedPath\": \"\\/wp-content\\/themes\\/salone\\/js\\/min\\/storelocator-it-min.js\",\n 62221: 		\"outputAbbreviatedPath\": \"\\/wp-content\\/themes\\/salone\\/js\\/min\\/min\\/storelocator-it-min-min.js\",\n 62222  		\"outputPathIsOutsideProject\": 0,\n 62223  		\"outputPathIsSetByUser\": 0,\n .....\n 62329  		\"syntaxCheckerStyle\": 1\n 62330  		},\n 62331: 	\"\\/wp-content\\/themes\\/salone\\/js\\/storelocator-it.js\": {\n 62332  		\"fileType\": 64,\n 62333  		\"ignore\": 0,\n 62334  		\"ignoreWasSetByUser\": 0,\n 62335: 		\"inputAbbreviatedPath\": \"\\/wp-content\\/themes\\/salone\\/js\\/storelocator-it.js\",\n 62336: 		\"outputAbbreviatedPath\": \"\\/wp-content\\/themes\\/salone\\/js\\/min\\/storelocator-it-min.js\",\n 62337  		\"outputPathIsOutsideProject\": 0,\n 62338  		\"outputPathIsSetByUser\": 0,\n\n6 matches in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 1108,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pac	",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/reply/Documents/WordpressProject/salonedimilano",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/plugins",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/plugins/wp-mobile-detect"
+	],
+	"file_history":
+	[
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/page-templates/caring.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/header.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/footer.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/js/featured-content-admin.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/js/customizer.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/js/cookies.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/public/js/dark.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/js/functions.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/sass/modules/_layout.sass",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/lib/custom_fields.php",
+		"/Users/reply/Desktop/salone/front-page.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/page-templates/homepage.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/OLD/wp-content/themes/salone/js/functions.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/public/js/main.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/OLD/wp-includes/class-simplepie.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/css/slider.css",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/public/owl-carousel/owl.theme.css",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/sass/modules/_home.sass",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/sass/modules/_header.sass",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/page-templates/heritage.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/sass/core/_content.sass",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/page.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/front-page.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/OLD/wp-content/themes/salone/header.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/twentyfourteen/featured-content.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/js/slider.js",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/config.codekit",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/taxonomy-caring-line.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/archive-caring.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/OLD/wp-content/themes/salone/public/css/application.css",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-config.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/page-templates/inspiration.php",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/public/css/_application.css",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/public/css/application.css",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/OLD/wp-includes/theme.php",
+		"/Applications/XAMPP/xamppfiles/etc/extra/httpd-vhosts.conf",
+		"/Users/reply/Documents/WordpressProject/salonedimilano/dump/salonemilano.sql",
+		"/private/etc/hosts",
+		"/Users/reply/Documents/WordpressProject/santannaGIT/santanna/dump/santanna.dev.sql",
+		"/Users/reply/Documents/workspaceGIT/patternlab-php/public/patterns/01-molecules-01-layout-00-one-up/01-molecules-01-layout-00-one-up.mustache",
+		"/Users/reply/Documents/workspaceGIT/patternlab-php/public/patterns/01-molecules-01-layout-00-one-up/01-molecules-01-layout-00-one-up.escaped.html",
+		"/Users/reply/Documents/workspaceGIT/patternlab-php/public/patterns/01-molecules-01-layout-00-one-up/01-molecules-01-layout-00-one-up.html",
+		"/Users/reply/Documents/workspaceGIT/patternlab-php/public/patterns/04-pages-00-homepage/04-pages-00-homepage.mustache",
+		"/Users/reply/Documents/workspaceGIT/patternlab-php/public/patterns/04-pages-00-homepage/04-pages-00-homepage.html",
+		"/Users/reply/Documents/workspaceGIT/patternlab-php/public/patterns/00-atoms-01-global-00-colors/00-atoms-01-global-00-colors.mustache",
+		"/Users/reply/Desktop/.htaccess",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/step-2.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador-serena.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador-lodovica.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/step-4.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/index.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/concorso.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_main.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/classes/class.phpmailer.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/contenuto-approvato.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/contenuto-non-approvato.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/recupera-password.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/registrazione-success.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/winner-giuria.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/winner-last-week.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_home.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_contest-steps.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-genova.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/include/lookfactory-menu.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-evento.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/include/header.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-cover.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_lookfactory-cover.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/mail/winner.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/css/application.css",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_ambassador.scss",
+		"/Users/reply/Desktop/cookielaw.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/cookie.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/gallery-detail.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/gallery.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/login.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-bari.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-milano.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-napoli.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/privacy.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/privacy.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/recupera-password.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/registrati.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/regolamento.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/step-1.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/step-2.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador-lodovica.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/include/footer.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador-annalisa.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador-ilenia.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/application.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/lookfactory-roma.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_lookfactory.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_gallery.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/js/gallery-photoset.js",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/coming/index.php",
+		"/Users/reply/Documents/workspace/eclipse/www.aptamil.it/WebContent/static/js/main.js",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/index.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/include/main-menu.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/ambassador-ilenia.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/base/_site-settings.scss",
+		"/Users/reply/Documents/config.php",
+		"/Users/reply/Documents/config_prod.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/baseContest/_contest.scss",
+		"/Users/reply/Documents/config_staging.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/.htaccess",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/config/config_dev.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/config/config_staging.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/modules/_btns.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/base/_mixins.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_header.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/baseContest/_common.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/gallery2.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/step-3.html",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/gallery-detail.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/layout/_wrapper.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/js/contest.js",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/_layout.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/js/____contest.js",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/.gitignore",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/_baseContest.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/_modules.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/_base.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/html/include/library.php",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/modules/_magnificpopup.scss",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/config.codekit",
+		"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso/static/scss/baseContest/_steps.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/reply/Documents/WordpressProject/salonedimilano/wp-content/themes/salone/public/images",
+			"/Users/reply/Documents/WordpressProject/salonedimilano",
+			"",
+			"/Users/reply/Documents/WordpressProject/santannaGIT/santanna/",
+			"/Users/reply/Documents/WordpressProject/santannaGIT/santanna/wp-content",
+			"",
+			"/Users/reply/Documents/workspace/php/pandora-concorso-2016/pandora-concorso",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"storelocato",
+			"storelocator-it",
+			"product-description",
+			"$scopri",
+			"youtu",
+			"video",
+			";",
+			"linee",
+			"\n<!--",
+			"-->\n",
+			".php",
+			"pulsante",
+			"owl-buttons",
+			"butt",
+			"next",
+			"beforeI",
+			"scopr",
+			"pagination",
+			"beforeInit",
+			"moved(",
+			"scopri le nostre",
+			"featured-content",
+			"caring",
+			"video",
+			"Canvas",
+			"2.69231",
+			"product-description",
+			"3.75",
+			"1.5",
+			"1.125",
+			"yout",
+			"#wV",
+			"wV",
+			"video",
+			"youtube",
+			"video",
+			"scopri",
+			".owl-controls",
+			"css('displ",
+			"70p",
+			"containerCaption",
+			"70",
+			"1",
+			".prev",
+			"this.owl",
+			"pagination",
+			"owl-page",
+			"add_script_owl",
+			"id=\"main",
+			"add_script_owl",
+			"NEXT_GLOBALCURRENT",
+			"GLOBALCURRENT",
+			"afterAction",
+			"owlCarousel(",
+			"owlCarousel",
+			" owl-carousel",
+			"number",
+			"max",
+			"item",
+			"featured-content",
+			"#owl-demo",
+			"slider",
+			"owl",
+			"featured-content",
+			"normali-secchi",
+			"caring_normal_top",
+			"tax-caring-line",
+			".term-secchi-danneggiati",
+			"tax-caring-line",
+			"tax-caring-line.term-secchi-danneggiati",
+			"caring_dry_top",
+			"caring",
+			"caring_dry_top",
+			"caring_dry_top.jpg",
+			"masthead",
+			"caring",
+			"resi",
+			"$description",
+			"description",
+			"category-description",
+			"caring",
+			"height",
+			"heig",
+			"bgVideo.jpg",
+			"bgv",
+			"salo",
+			"ilsalonemilano.com",
+			"www.ilsalonemilano.com",
+			"salone",
+			"http://santanna.dev.bitmama.it",
+			"\"http://santanna.dev.bitmama.it",
+			"http://santanna.dev.bitmama.it",
+			"\"http://santanna.dev.bitmama.it",
+			"http://santanna.dev.bitmama.it",
+			"'http://santanna.dev.bitmama.it",
+			"$basepath = 'http://'.$_SERVER['SERVER_NAME'];",
+			"'http://santanna.dev.bitmama.it",
+			"'http://santanna.dev.bitmama.it/",
+			"'http://santanna.dev.bitmama.it",
+			"intan",
+			"TuStyle",
+			"tuStyle",
+			"$avatarView",
+			"-40",
+			"container-title",
+			"current_week",
+			"step-4",
+			"deb",
+			"site-main",
+			"content-area",
+			"heade",
+			"mail(",
+			"X_PRIORITY",
+			"header",
+			"tus",
+			"caro",
+			"logo",
+			"border-t",
+			"before",
+			"BASE",
+			"TuStyle",
+			"tustyle",
+			"http://pandorafrs-stage.kinetikon.com",
+			"a casa s",
+			"mobileCheck",
+			"contain",
+			"tu",
+			"end"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"ilsalonemilano.dev.bitmama.it",
+			"<?echo $basepath; ?>",
+			"'.$basepath.'",
+			"<? echo $basepath; ?>",
+			"<? echo $basepath?>",
+			"$basepath.\"",
+			"$basepath.'",
+			"\n$",
+			"$basepath.'",
+			"Tustyle",
+			"tustyle",
+			"current_week_look",
+			"Tustyle",
+			"%BASE_URL%",
+			"alt=\"ambassador-theme\"",
+			"alt=\"ambassador\"",
+			"www.pandorafashionringstylist.it ",
+			"pandora",
+			".wrapper-landing.landing",
+			"table-bootstrap",
+			"/img/lookfactory/<?php echo $current_city; ?>/uploaded-photo-placeholder-<?php echo $current_city; ?>-0.png",
+			"/img/lookfactory/<?php echo $current_city; ?>/uploaded-photo-placeholder-<?php echo $current_city; ?>-3.png",
+			"/img/lookfactory/<?php echo $current_city; ?>/uploaded-photo-placeholder-<?php echo $current_city; ?>-2.png",
+			"/img/lookfactory/<?php echo $current_city; ?>/uploaded-photo-placeholder-<?php echo $current_city; ?>.png",
+			"\"regione fini\"",
+			"class=\"store fini\"",
+			"class=\"stores fini\"",
+			"<h2 class=\"fini\">",
+			"<p class=\"fini\">",
+			"<p class=\"cdn\">",
+			"<h2 class=\"cdn\">",
+			"\"stores cdn\"",
+			"\"store cdn\"",
+			"\"regione cdn\"",
+			"\"regione fini\"",
+			"cdn",
+			"Cdn",
+			"CDN",
+			"cdn",
+			"Cdn",
+			"puntivenditaristorofini",
+			"puntovenditaristorofini_",
+			"puntivenditaristorofini",
+			"puntivenditaristorofini_",
+			"punti_vendita_init_rist_fini",
+			"PUNTOVENDITA_RIST_FINI_",
+			"PUNTIVENDITA_RIST_FINI_",
+			"_rist_fini_",
+			"puntivenditaristorofini",
+			"PuntivenditaHelper_ristoro_fini",
+			"VAR_nonsolobuono_PUNTOVENDITA_2",
+			"TradeGreciAdmin",
+			"'",
+			"http://nonsolobuono.phpstg.bitmama.it",
+			"'",
+			"http://nonsolobuono.phpstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/images/perfectDinner/recieps/",
+			"http://nonsolobuono.phpstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public//images/perfectDinner/recieps/",
+			"class=\"continua\"",
+			"txtChoose>",
+			"<span class=\"txtTitle\"></span><span class=\"txtShoose\"></span>",
+			"http://corteccia.local:5757/wp-content/themes/nonsolobuono_theme/public//images/perfectDinner/placeholderMood.jpg",
+			"moodTitleItem",
+			"Mood.jpg",
+			"<?php echo asset_url('/images/perfectDinner/placeholderMood.png') ?>",
+			"title:",
+			" <li><a href=\"contatti.html\">CONTATTI</a>",
+			" <li><a href=\"premi.html\">PREMI</a>",
+			"<li><a href=\"comefunziona.html\">COME FUNZIONA</a>",
+			"nonsolobuono.localhost.it",
+			"/placeholderNoteOrganizzative.png",
+			"/placeholderNoteOrganizzative",
+			"placeholderNoteOrganizzative\nplaceholderNoteOrganizzative",
+			"PublishingImages",
+			"img src=\"img/",
+			"FILARMONICA",
+			"'",
+			"http://www.fiestaferrero.it/DEM/img/",
+			"http://fiestaferrero.it/DEM/img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wp-content/themes/salone/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22728,
+								22728
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10804.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/reply/Desktop/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8072,
+								8077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 4694.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "wp-content/themes/salone/front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2629,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2252,
+								2252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 862.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "wp-content/themes/salone/public/js/plugins.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								362,
+								362
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/reply/Desktop/cartella senza titolo 9/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28239,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "wp-content/themes/salone/sass/application.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								461
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "wp-content/themes/salone/sass/modules/_prodotto.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2682,
+								2682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1341.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "wp-content/themes/salone/sass/modules/_layout.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45934,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18223,
+								18223
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 1.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "wp-content/themes/salone/page-templates/store-locator.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1712,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								46
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "wp-content/themes/salone/page-templates/caring.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1888,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "wp-content/themes/salone/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6466,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6091,
+								6091
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2548.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1108,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										211,
+										226
+									],
+									[
+										396,
+										411
+									],
+									[
+										501,
+										516
+									],
+									[
+										709,
+										724
+									],
+									[
+										885,
+										900
+									],
+									[
+										981,
+										996
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"line_numbers": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([^ 	].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ilsalonemilano.dev.bitmama.it-project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"static/scss/layout/_home.scss"
+			],
+			[
+				"noti",
+				"wp-content/themes/nonsolobuono_theme/partials/notifier.php"
+			],
+			[
+				"sche",
+				"nonsolobuono.jstg.bitmama.it/wp-admin/includes/schema.php"
+			],
+			[
+				"sschem",
+				"nonsolobuono.jstg.bitmama.it/wp-admin/includes/schema.php"
+			],
+			[
+				"custom_h",
+				"nonsolobuono_theme/lib/custom_helpers.php"
+			],
+			[
+				"no",
+				"nonsolobuono_theme/partials/notifier.php"
+			],
+			[
+				"new_user",
+				"nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl_profile/tpl_new_user.php"
+			],
+			[
+				"accordion",
+				"nonsolobuono_theme/partials/blocco_accordion.php"
+			],
+			[
+				"hel",
+				"nonsolobuono_theme/sass/core/_helpers.sass"
+			],
+			[
+				"blocco",
+				"nonsolobuono_theme/partials/blocco.php"
+			],
+			[
+				"def",
+				"nonsolobuono_theme/init/default_hooks.php"
+			],
+			[
+				"help",
+				"sass/core/_helpers.sass"
+			],
+			[
+				"per",
+				"sass/perfectDinner.sass"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"perfe",
+				"tpl/tpl_perfectDinner.php"
+			],
+			[
+				"se",
+				"sass/core/_settings.sass"
+			],
+			[
+				"bas",
+				"sass/core/_base.sass"
+			],
+			[
+				"qua",
+				"sass/modules/_quadrati.sass"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"11.4"
+			]
+		],
+		"width": 908.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

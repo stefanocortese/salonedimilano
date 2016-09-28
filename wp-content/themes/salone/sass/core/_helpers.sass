@@ -1,0 +1,296 @@
+// *************************************
+//
+//   Helpers
+//   -> Extends, Functions, Mixins, Animations
+//
+// *************************************
+
+// -------------------------------------
+//   Extends
+// -------------------------------------
+
+// ----- Debug ----- //
+
+%debug
+  background-color: pink !important
+
+// ----- Ellipsis ----- //
+
+%ellipsis
+  overflow: hidden
+  text-overflow: ellipsis
+  white-space: nowrap
+
+// ----- Clearfix ----- //
+
+%group:after
+  clear: both
+  content: ''
+  display: table
+
+
+
+// ----- Image Replacement ----- //
+
+%ir
+  background-color: transparent
+  border: 0
+  overflow: hidden
+  &:before
+    content: ''
+    display: block
+    width: 0
+    height: 150%
+
+%zoom
+  a
+    overflow: hidden
+    display: block
+    background: #fff
+    .testo
+      z-index: 1
+    +breakpoint($medium)
+      .no-touch &:hover
+        img
+          +transform(scale(1.2))
+
+
+// ----- Line ----- //
+
+%line
+  content: ''
+  display: block
+  width: 100%
+  height: 2px
+  margin: 10px auto
+
+
+%full-width-content-holder
+  position: relative
+  display: inline-block
+  width: 100%
+  &:before, &:after
+    content: ''
+    position: absolute
+    top: 0
+    bottom: 0
+    width: 999px
+  &:after
+    right: 100%
+  &:before
+    left: 100%
+
+
+
+// -------------------------------------
+//   Functions
+// -------------------------------------
+
+
+
+// ----- em ----- //
+
+@function em($target, $context: $base-fontSize)
+  @if ($target == 0)
+    @return 0
+  @else
+    @return #{$target / $context}em
+
+// ----- rem ----- //
+
+@function rem($size)
+  @return #{$size / $base-fontSize}rem
+
+
+// -------------------------------------
+//   Mixins
+// -------------------------------------
+
+
+// ----- Arrow ----- //
+
+=arrow($width: 20px, $height: 20px, $direction: up, $color: red)
+
+  width: 0
+  height: 0
+
+  // Right
+  @if $direction == right
+    border-top: $height/2 solid transparent
+    border-bottom: $height/2 solid transparent
+    border-left: $width solid $color
+
+  // Left
+  @if $direction == left
+    border-top: $height/2 solid transparent
+    border-bottom: $height/2 solid transparent
+    border-right: $width solid $color
+
+  // Up
+  @if $direction == up
+    border-left: $width/2 solid transparent
+    border-right: $width/2 solid transparent
+    border-bottom: $height solid $color
+
+  // Down
+  @if $direction == down
+    border-left: $width/2 solid transparent
+    border-right: $width/2 solid transparent
+    border-top: $height solid $color
+
+
+
+
+
+// ----- Center line ----- //
+=centerline($color)
+  text-align: center
+  overflow: hidden
+  &:after, &:before
+    @extend %line
+    background: $color
+    display: inline-block
+    height: 1px
+    position: relative
+    vertical-align: middle
+    width: 50%
+  &:after
+    right: -1em
+    margin-right: -50%
+  &:before
+    left: -1em
+    margin-left: -50%
+
+// ----- Vertical align ----- //
+=vertical-align
+  position: relative
+  top: 50%
+  -webkit-transform: translateY(-50%)
+  -ms-transform: translateY(-50%)
+  transform: translateY(-50%)
+
+
+
+// ----- line ----- //
+=twoline($color)
+  &:after, &:before
+    @extend %line
+    background: $color
+    width: 50px
+
+
+
+// ----- Position ----- //
+
+=top
+  margin-top: 30px
+=bottom
+  margin-bottom: 30px
+=pad-top
+  padding-top: 30px
+=pad-bottom
+  padding-bottom: 30px
+
+=full-color($color)
+  @extend %full-width-content-holder
+  background: $color
+  &:after
+    background: inherit
+  &:before
+    background: inherit
+
+// ----- Background image ----- //
+
+=bg-img($image, $position: center center, $repeat: no-repeat, $color: transparent)
+  background-image: url('../images/#{$image}')
+  background-repeat: $repeat
+  background-position: $position
+  background-color: $color
+
+// ----- Center column ----- //
+
+=center($columns)
+  width: span($columns)
+  margin: 0 auto
+
+=reset-center
+  width: auto
+  padding-left: 1em
+  padding-right: 1em
+
+// ----- Border radius ----- //
+
+=border-radius($rad)
+  +border-top-radius($rad)
+  +border-bottom-radius($rad)
+  +border-left-radius($rad)
+  +border-right-radius($rad)
+
+
+// ----- Buttons ----- //
+
+=button($color, $arrow:"")
+  padding: 8px 18px
+  color: $color
+  text-transform: uppercase
+  cursor: pointer
+  border: 1px solid #81764e
+  display: inline-block
+  position: relative
+  z-index: 1
+  background: transparent
+  font-size: 15px
+  text-align: center
+  +transition(all 0.3s)
+  +breakpoint($small)
+    display: block
+    text-align: center
+  .no-touch &:hover
+    background: darken($color, 2%)
+    color: white
+  a, a:hover
+    color: white
+  @if $arrow == "arrow"
+    &:after
+      font-family: 'FontAwesome'
+      content: "\f054"
+      right: 10px
+      position: absolute
+      font-size: 14px
+      line-height: 1.6em
+      text-align: left
+      a
+        text-align: left
+
+
+
+
+
+
+
+// ----- Gallery ----- //
+
+=galleria($num, $margin)
+  margin-left: -$margin
+  article
+    width: percentage(1/$num) - round($margin)
+    margin-left: $margin
+    margin-bottom: $margin*2
+
+
+
+// ----- Clean List ----- //
+
+=clean-list
+  ul
+    list-style: none
+    padding-left: 0
+    li
+      list-style: none
+
+
+
+// -------------------------------------
+//   Animations
+// -------------------------------------
+

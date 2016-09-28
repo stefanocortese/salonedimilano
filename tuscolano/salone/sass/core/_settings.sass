@@ -1,0 +1,114 @@
+// *************************************
+//
+//   Settings
+//   -> Fonts, Variables
+//
+// *************************************
+
+// -------------------------------------
+//   @font-face
+// -------------------------------------
+
++font-face(PlayfairDisplayNormal, 'http://fonts.googleapis.com/css?family=Playfair+Display:400')
++font-face(PlayfairDisplayBold, 'http://fonts.googleapis.com/css?family=Playfair+Display:700')
++font-face(RobotoNormal, 'http://fonts.googleapis.com/css?family=Roboto:400')
++font-face(RobotoBold, 'http://fonts.googleapis.com/css?family=Roboto:500')
+
+@import url(http://fonts.googleapis.com/css?family=Roboto|Playfair+Display:400,300,100,700)
+
+$font-head: 'Playfair Display', serif
+$font-fam: 'Roboto', serif 
+$font-bold: 'Playfair Display'
+
+
+// -------------------------------------
+//   Variables
+// -------------------------------------
+
+// ----- Base Colors ----- //
+
+$primary: #FFF
+$secondary: #444444
+$gold: #81764e
+$black: #000
+
+$base-background: #fff
+$base-color: #444
+$base-link-color: $primary
+
+$rosso: #ff1e15
+
+
+// ----- Base Borders & Box Shadows ----- //
+
+$base-border: 1px solid lighten($base-color, 70%)
+$base-borderRadius: 3px
+$base-boxShadow: 0 1px 2px rgba($base-color, 0.25)
+$cerchio-borderRadius: 50%
+
+// ----- Base Content ----- //
+
+$base-fontFamily: $font-fam
+$base-fontSize: 13px
+$base-lineHeight: 1.4
+
+// ----- Base Layout ----- //
+
+$base-whitespace: 20px
+
+// ----- Content ----- //
+
+$bold-fontFamily: $font-fam
+$c-header-fontFamily: $font-head
+
+// ----- Layout ----- //
+
+$l-megaWidth: 1440px
+$l-maxWidth: 1280px
+$l-mediumWidth: 960px
+$tablet-landscape-w: 1024px
+
+// ----- Brekpoint ----- //
+
+$little_w: 380px
+$small_w: 605px
+$phone_w: 736px
+$medium_w: 980px
+$mix-size_w: 800px
+$mix-size_plus_w: 880px
+$portrait: 768px
+$big_w: 1280px
+$desktop_w: $l-maxWidth
+$tablet-landscape: max-width $tablet-landscape-w
+$little: max-width $little_w
+$small: max-width $small_w
+$mix-size: max-width $mix-size_w
+$mix-size_plus: max-width $mix-size_plus_w
+$phone: max-width $phone_w
+$medium: max-width $medium_w
+$phone-medium: $phone_w $medium_w
+$big: max-width $big_w
+$desktop: max-width $desktop_w
+$tablet-portrait: max-width $portrait
+$phone_land: 414px 736px, handheld (orientation landscape)
+
+
+// -------------------------------------
+//   Susy
+// -------------------------------------
+
+$susy: (columns: 12, gutters: 2/3, math: fluid, output: float, container: $l-maxWidth)
+$padding-desktop: 2em inside-static
+$pad: 1.6em
+
+// assume min-width (by default) if only a number
+// $high-tide: 500px
+
+// set min-width/max-width if both values are numbers
+// $ex-presidents: 600px 800px
+
+// if one value is a string, assume a feature/value pair
+// $surfboard-width: max-width 1000px
+
+// string tests together within parentheses, assume each item is a feature value pair
+// $surfboard-height: (min-height 1000px) (orientation portrait)

@@ -1,0 +1,70 @@
+<h1 id="changelog">Changelog</h1>
+<h2 id="2-2-0-nov-23-2013">2.2.0 - Nov 23, 2013</h2>
+<ul>
+<li>fix simple or queries</li>
+<li>convert respond-to to use sass maps</li>
+<li>convert context to use sass maps</li>
+</ul>
+<h2 id="2-0-7-sept-17th-2013">2.0.7 - Sept 17th, 2013</h2>
+<ul>
+<li>fix fallback support for 1.x</li>
+</ul>
+<h2 id="2-0-0-the-past">2.0.0 - The Past</h2>
+<ul>
+<li>Looks like we forgot relase notes for 2.0. oops</li>
+</ul>
+<h2 id="1-3-august-28th-2012">1.3 - August 28th, 2012</h2>
+<ul>
+<li>better conversion to base-ems</li>
+<li>fix floating point error</li>
+</ul>
+<h2 id="1-2-august-16th-2012">1.2 - August 16th, 2012</h2>
+<ul>
+<li>Added ability to force the &#39;all&#39; media type to be written by setting <code>$breakpoint-force-media-all: true;</code>. Defaults to <code>false</code>.</li>
+<li>Added ability to generate no query fallback code. See the README for full documentaiton.</li>
+</ul>
+<h2 id="1-1-1-july-30-2012">1.1.1 - July 30, 2012</h2>
+<ul>
+<li>Added (forgot to include the first time) the ability to query the media type using <code>breakpoint-get-context(&#39;media&#39;)</code></li>
+</ul>
+<h2 id="1-1-july-29-2012">1.1 - July 29, 2012</h2>
+<ul>
+<li>Added function <code>breakpoint-get-context($feature)</code> to allow users to get the current media query context</li>
+</ul>
+<h2 id="1-0-2-july-28-2012">1.0.2 - July 28, 2012</h2>
+<ul>
+<li>Refixed our &#39;device-pixel-ratio&#39; conversions because, frankly, the w3c was wrong.</li>
+<li>fixed bugs that caused single and triple value single queries to fail. Also bugs with stacking single and triple value queries.</li>
+</ul>
+<h2 id="1-0-1-june-27-2012">1.0.1 - June 27, 2012</h2>
+<ul>
+<li>fixed logic error that would print multiple instences of a media type</li>
+</ul>
+<h2 id="1-0-june-22-2012">1.0 - June 22, 2012</h2>
+<ul>
+<li>Refactor of the underlying logic to make everything work better and make the world a happy place.</li>
+<li>Added default options for Default Feature, Default Media, and Default Feature Pair.</li>
+<li>Changed default media from &quot;Screen&quot; to &quot;All&quot;.</li>
+<li>Added ability to have all px/pt/percentage media queries transformed into em based media queries.</li>
+</ul>
+<h2 id="0-3-june-18-2012">0.3 - June 18, 2012</h2>
+<ul>
+<li>Rewrote &#39;device-pixel-ratio&#39; conversions to change from prefixed nightmarish hell to Resolution standard based on the <a href="http://www.w3.org/blog/CSS/2012/06/14/unprefix-webkit-device-pixel-ratio/">W3C Unprefixing -webkit-device-pixel-ratio article</a></li>
+<li>Large README update covering feature set, installation, assumptions, and more.</li>
+</ul>
+<h2 id="0-2-may-24-2012">0.2 - May 24, 2012</h2>
+<ul>
+<li>Converted from Sass to SCSS</li>
+<li>Converted README examples from Sass to SCSS</li>
+<li>Added ability to do min/max easily with any valid feature</li>
+<li>Added prefixing for &quot;device-pixel-ratio&quot; feature for the three implementations (-webkit, -moz, -o) as well as a standard version for future friendliness<ul>
+<li>-moz&#39;s min/max is different than -webkit or -o, so prefixed differently</li>
+<li>Opera is strange and needs its DPR in a ratio instead of a floating point number, so requires the fraction rubygem and has a numerator/denominator function to accommodate.</li>
+</ul>
+</li>
+<li>Added ability to have single feature/value input be either have feature first or second</li>
+</ul>
+<h2 id="0-1-may-22-2012">0.1 - May 22, 2012</h2>
+<ul>
+<li>extract breakpoint from survival kit to this gem</li>
+</ul>

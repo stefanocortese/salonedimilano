@@ -1,0 +1,1129 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"elem",
+				"element"
+			],
+			[
+				"img",
+				"img_bg"
+			],
+			[
+				"the",
+				"the_title"
+			],
+			[
+				"to",
+				"tot_el"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"class",
+				"class_span"
+			],
+			[
+				"span",
+				"span_tot"
+			],
+			[
+				"count",
+				"count_el"
+			],
+			[
+				"tot_",
+				"tot_group"
+			],
+			[
+				"sin",
+				"single"
+			],
+			[
+				"field",
+				"fields"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"Caring",
+				"Caring"
+			],
+			[
+				"heritage_",
+				"heritage_categories"
+			],
+			[
+				"order",
+				"order"
+			],
+			[
+				"Cate",
+				"Categories"
+			],
+			[
+				"slide",
+				"slideup"
+			],
+			[
+				"mi",
+				"min-height"
+			],
+			[
+				"no",
+				"none"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lo",
+				"localize"
+			],
+			[
+				"inde",
+				"index"
+			],
+			[
+				"index",
+				"index"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"conte",
+				"contenuto_page"
+			],
+			[
+				"so",
+				"social_list"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"og",
+				"ogtypeImage"
+			],
+			[
+				"th",
+				"the_post"
+			],
+			[
+				"regio",
+				"region"
+			],
+			[
+				"re",
+				"regions"
+			],
+			[
+				"ha",
+				"hasClass"
+			],
+			[
+				"br",
+				"breakpoint"
+			],
+			[
+				"paddi",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"term",
+				"terms"
+			],
+			[
+				"le",
+				"le-conserve-della-nonna"
+			],
+			[
+				"Smal",
+				"small-tablet"
+			],
+			[
+				"get_cate",
+				"get_the_category"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"ti",
+				"tipo_post"
+			],
+			[
+				"pro",
+				"prod_block"
+			],
+			[
+				"loca",
+				"location"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"repl",
+				"substr_replace"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"txt",
+				"txtChoseSelected"
+			],
+			[
+				"titol",
+				"titoloCenaPerfetta"
+			],
+			[
+				"ste",
+				"step2"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"mood",
+				"moods"
+			],
+			[
+				"bra",
+				"brand_block"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"i",
+				"item"
+			],
+			[
+				"ite",
+				"itemRelate"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"view",
+				"viewNavigation"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"arr",
+				"arrObjCoursesTitle"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"col",
+				"console"
+			],
+			[
+				"ob",
+				"objtemp"
+			],
+			[
+				"cou",
+				"counterCoursesChoose"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"n",
+				"nVel"
+			],
+			[
+				"ge",
+				"getResult"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"menu",
+				"menus"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"obj",
+				"obj"
+			],
+			[
+				"m",
+				"mItems"
+			],
+			[
+				"o",
+				"obj"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"get",
+				"getMood"
+			],
+			[
+				"piatti",
+				"piatti_temp"
+			],
+			[
+				"pu",
+				"push"
+			],
+			[
+				"ar",
+				"arr_temp"
+			],
+			[
+				"push",
+				"pushed"
+			],
+			[
+				"_id",
+				"_id2"
+			],
+			[
+				"pia",
+				"piatti_temp"
+			],
+			[
+				"r",
+				"resetPerfectDinner"
+			],
+			[
+				"g",
+				"getObjectCompatibility"
+			],
+			[
+				"resi",
+				"resizeTitolo"
+			],
+			[
+				"backgrou",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/reply/Downloads/salonedimilano/index.html",
+			"settings":
+			{
+				"buffer_size": 9652,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "front-page.php",
+			"settings":
+			{
+				"buffer_size": 1903,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "header.php",
+			"settings":
+			{
+				"buffer_size": 3155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 58852,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "functions.php",
+			"settings":
+			{
+				"buffer_size": 13322,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/functions.js",
+			"settings":
+			{
+				"buffer_size": 4144,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac	",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone"
+	],
+	"file_history":
+	[
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/lib/tax-function.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/single.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/taxonomy-straightening-line.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/taxonomy-coloring-line.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/taxonomy-caring-line.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/page-templates/inspiration.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/page-templates/heritage.php",
+		"/Volumes/GANG/WP_BITMAMA/taxonomy-caring-line.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/page.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/lib/custom-taxonomy.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/taxonomy-color-line.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/taxonomy-straightness-line.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/archive-caring.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/archive-color.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/archive-straightness.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/front-page.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/page-templates/caring.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/404.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/header.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/style.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/js/functions.js",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/lib/custom-post.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/content-page.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/css/slider.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/inc/featured-content.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/functions.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/inc/back-compat.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/js/customizer.js",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/page-templates/full-width.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/content-featured-post.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/index.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/content.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/content-featured-post.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/featured-content.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/inc/front-page.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/inc/template-tags.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/js/featured-content-admin.js",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/content.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/footer.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/css/wp-pattern.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/css/reset.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/inc/customizer.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/style.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/test/index.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/test/sidebar.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/test/header.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/functions.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/test/style.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/sidebar.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/salone/inc/widgets.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/footer.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/sidebar-footer.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/css/ie.css",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/lib/taxonomy.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/lib/taxonomy",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/index.html",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/core/_settings.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/modules/_related.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/modules/_layout.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-config.php",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/application.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/wordpress/wp-content/themes/twentyfourteen/js/functions.js",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/modules/_home.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/modules/_header.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/public/owl-carousel/owl.carousel.js",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/core/_helpers.sass",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/sass/modules/_menu.scss",
+		"/Users/reply/Documents/workspace/php/salone_di_milano/salonedimilano.sublime-project",
+		"/Users/reply/Documents/workspace/php/salonedimilano/sass/core.sass",
+		"/Users/reply/Documents/workspace/php/salonedimilano/public/css/core.css",
+		"/Users/reply/Documents/workspace/php/salonedimilano/sass/modules/_layout.sass",
+		"/Users/reply/Documents/workspace/php/salonedimilano/sass/modules/_dark.sass",
+		"/Users/reply/Documents/workspace/php/salonedimilano/sass/modules/_header.sass",
+		"/Users/reply/Documents/workspace/php/salonedimilano/sass/core/_settings.sass",
+		"/Users/reply/Documents/workspace/php/salonedimilano/public/js/dark.js",
+		"/Users/reply/Desktop/cartella senza titolo 2/cartella senza titolo/index.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl_profile/tpl_user_survey.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/js/min/perfectDinner-min.js",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_perfectDinner.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/js/perfectDinner.js",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/perfectDinner.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_storia.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_single.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/core/_settings.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/sass/modules/_general.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/puntivendita.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/core.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/lib/custom_helpers.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/init/custom_fields.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_areatrade.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_storia.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_areapress.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_side.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_faq.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_faq.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/lib/helpers/asset_tag_helper.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_puntivendita_fini_template.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_areapress.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_page.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/application.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_quadrati.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_contatti.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/functions.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/single.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/plugins/contact-form-7/includes/contact-form.php",
+		"/Volumes/MetaioSDK/metaioSDK/tutorialContent_crossplatform/TutorialHelloWorld/tutorial.html",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/partials/socials.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/js/vendor/share.js",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/js/main.js",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/header.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_home.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/js/plugins.js",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/sass/modules/_side.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/css/custom-editor-syle.css",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/core/_layout.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/core/_helpers.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/core/_content.sass",
+		"/Users/reply/Desktop/socials.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/frameworks/owlcarousel/_owltheme.scss",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/partials/blocco.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/printPerfectDinner.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/modules/_prodotto.sass",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl_prod/tpl-gamme-fini.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/taxonomy-gamma-fini.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/sass/frameworks/animate/_animate.scss",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/css/core.css",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/plugins/as-pdf/tcpdf/tcpdf.php",
+		"/Users/reply/Documents/WordpressProject/nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/partials/main_side.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//$",
+			"header",
+			"primar",
+			"_x",
+			"echo",
+			"post_class",
+			"post_class();",
+			".site:before",
+			"site",
+			" site",
+			"slider",
+			"sidebar",
+			"post-thumbnails",
+			"');\n",
+			"featured-post",
+			"get_template_part",
+			"twenty",
+			"salone",
+			"post_thumbnail()",
+			"get_thumb",
+			"get_featured_posts",
+			"twentyfourteen",
+			"credits",
+			"register",
+			"twentyfourteen",
+			"twentyfourteen_content_width()",
+			"heritage",
+			"Color",
+			"Caring",
+			"caring",
+			"Heritage",
+			";//",
+			"heritage",
+			"manage_edit-heritage_columns",
+			"center",
+			"width",
+			"button",
+			"$button",
+			"$primary",
+			"button",
+			"social-networks",
+			"main_menu",
+			"resizer",
+			"container(",
+			"ferrer",
+			".col2",
+			"tre",
+			"colonna",
+			"userdelete",
+			"removeUserConfirmed",
+			"eli",
+			"del",
+			"setClickOwlCourses",
+			"owlCarousel",
+			"mood",
+			"-fini",
+			".sass",
+			"-greci",
+			"min-height",
+			".sass",
+			"sass",
+			"min-height",
+			"preview_size",
+			"wp_get_attachment_image_src",
+			"image_tag",
+			"trade",
+			"immagine",
+			"trade",
+			".closed",
+			"map_cont",
+			"o_shortcode(",
+			"do_shortcode\ndo_shortcode",
+			"          <? echo do_shortcodedo_shortcode(get_field('embed_form'));?>\ndo_shortcode",
+			"embed_form",
+			"(no",
+			"scale",
+			"grande",
+			"brand_block",
+			"get_thumb_image",
+			"get_thumb_image(\n",
+			" get_thumb_image\n",
+			" \n",
+			".risposta",
+			"faq_acco",
+			"icone/socials.png",
+			"share(",
+			"share",
+			".social'",
+			".social ",
+			".social",
+			".facebook",
+			"facebook",
+			"social",
+			".sass",
+			".social",
+			"social",
+			".sass",
+			".social",
+			"youtube",
+			"002d5a",
+			"pf_button",
+			"pf_button_",
+			".js",
+			".linea_anno",
+			".sass",
+			"image-rendering",
+			"1.2",
+			".sas",
+			"owl-item",
+			"scale(1.2",
+			"rettangolare",
+			"copertina_widget",
+			"Gamme Fini",
+			"@tra",
+			".sas",
+			"transform(",
+			"transform\ntransform(",
+			"scale",
+			"translate",
+			".sass",
+			"transition-delay",
+			"%tran ",
+			"% tran ",
+			"= tran ",
+			"=tran ",
+			"menu_brand",
+			"51px",
+			"menu_brand"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"__",
+			"salone",
+			"lookbook",
+			"straightening",
+			"color",
+			"Color",
+			"color",
+			"Color",
+			"color",
+			"caring",
+			"Caring",
+			"'",
+			"http://nonsolobuono.phpstg.bitmama.it",
+			"'",
+			"http://nonsolobuono.phpstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public/images/perfectDinner/recieps/",
+			"http://nonsolobuono.phpstg.bitmama.it/wp-content/themes/nonsolobuono_theme/public//images/perfectDinner/recieps/",
+			"class=\"continua\"",
+			"txtChoose>",
+			"<span class=\"txtTitle\"></span><span class=\"txtShoose\"></span>",
+			"http://corteccia.local:5757/wp-content/themes/nonsolobuono_theme/public//images/perfectDinner/placeholderMood.jpg",
+			"moodTitleItem",
+			"Mood.jpg",
+			"<?php echo asset_url('/images/perfectDinner/placeholderMood.png') ?>",
+			"title:",
+			" <li><a href=\"contatti.html\">CONTATTI</a>",
+			" <li><a href=\"premi.html\">PREMI</a>",
+			"<li><a href=\"comefunziona.html\">COME FUNZIONA</a>",
+			"nonsolobuono.localhost.it",
+			"/placeholderNoteOrganizzative.png",
+			"/placeholderNoteOrganizzative",
+			"placeholderNoteOrganizzative\nplaceholderNoteOrganizzative",
+			"PublishingImages",
+			"img src=\"img/",
+			"FILARMONICA",
+			"'",
+			"http://www.fiestaferrero.it/DEM/img/",
+			"http://fiestaferrero.it/DEM/img/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/reply/Downloads/salonedimilano/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 9652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2849,
+								2921
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 860.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "front-page.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1903,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1134,
+								1134
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 428.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2164,
+								2164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 825.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58852,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1626,
+								1626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 966.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13322,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7078,
+								7063
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4185.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "js/functions.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3993,
+								3993
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2191.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "salone.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"custom_h",
+				"nonsolobuono_theme/lib/custom_helpers.php"
+			],
+			[
+				"no",
+				"nonsolobuono_theme/partials/notifier.php"
+			],
+			[
+				"new_user",
+				"nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl_profile/tpl_new_user.php"
+			],
+			[
+				"",
+				"nonsolobuono.jstg.bitmama.it/wp-content/themes/nonsolobuono_theme/tpl/tpl_puntivendita_fini_template.php"
+			],
+			[
+				"accordion",
+				"nonsolobuono_theme/partials/blocco_accordion.php"
+			],
+			[
+				"hel",
+				"nonsolobuono_theme/sass/core/_helpers.sass"
+			],
+			[
+				"blocco",
+				"nonsolobuono_theme/partials/blocco.php"
+			],
+			[
+				"def",
+				"nonsolobuono_theme/init/default_hooks.php"
+			],
+			[
+				"help",
+				"sass/core/_helpers.sass"
+			],
+			[
+				"per",
+				"sass/perfectDinner.sass"
+			],
+			[
+				"hea",
+				"header.php"
+			],
+			[
+				"perfe",
+				"tpl/tpl_perfectDinner.php"
+			],
+			[
+				"se",
+				"sass/core/_settings.sass"
+			],
+			[
+				"bas",
+				"sass/core/_base.sass"
+			],
+			[
+				"qua",
+				"sass/modules/_quadrati.sass"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 357.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

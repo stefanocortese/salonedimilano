@@ -1,0 +1,207 @@
+// *************************************
+//
+//   Header
+//
+// *************************************
+
+#masthead
+  +span(12)
+  position: relative
+  #main-menu
+    display: none
+    text-align: center
+    +transition(all 100ms ease-in-out)
+    background: #000
+    display: none
+    width: 100%
+    height: 100%
+    position: absolute
+    top: 0
+    left: 0
+    z-index: 9999
+    font-size: 4em
+    font-family: $font-head
+    +breakpoint($big)
+      font-size: 3em
+    +breakpoint($tablet-landscape)
+      font-size: 2em
+      background-image: url('../images/bgIntro.jpg')
+      background-position: center center
+      background-size: auto 100%
+      background-repeat: no-repeat
+    +breakpoint($phone)
+      font-size: 1.5em
+    +breakpoint($phone_land)
+      background-size: 100% 100%
+    #logo
+      display: block
+      +span(12)
+    .site-navigation
+      left: 50%
+      position: absolute
+      top: 50%
+      transform: translate(-50%, -50%)
+      -ms-transform: translate(-50%, -50%)
+      -webkit-transform: translate(-50%, -50%)
+
+    ul li a
+      margin-top: 25px
+      display: block
+      color: $gold
+      -webkit-transition: all 0.3s ease-in-out
+      -moz-transition: all 0.3s ease-in-out
+      -o-transition: all 0.3s ease-in-out
+      transition: all 0.3s ease-in-out
+      &:hover
+        color: $primary
+    ul ul
+      display: none
+      li
+        font-size: .78em
+    #social-navigation
+      font-size: .5em
+      ul li
+        display: inline-block
+        margin: 0 15px
+
+  video#bgvid
+    position: fixed
+    top: 0
+    right: 0
+    min-width: 100%
+    min-height: 100%
+    width: auto
+    height: auto
+    z-index: -100
+    +breakpoint($phone)
+      display: none!important
+    
+      
+  .mobile
+    +span(33.333%)
+    +breakpoint($phone)
+      +span(12)
+    display: block
+    margin: 10px auto
+    >span
+      cursor: pointer
+      display: block
+      width: 30px
+      height: 30px
+      position: absolute
+      top: 10px
+      left: 10px
+      z-index: 10000
+      padding-left: 35px
+      padding-top: 12px
+      color: $gold
+      text-transform: uppercase
+      font-size: 0.78em
+
+    .hamb
+      +bg-img("menu.png", top left)
+    .closeHamb
+      +bg-img("close.png", top left)
+      
+
+  #logo
+    +span(33.333%)
+    +breakpoint($phone)
+      clear: both
+      float: none
+      margin: 0 auto
+    margin: 10px auto
+    text-align: center
+    img
+      max-width: 250px
+      +breakpoint($big)
+        max-width: 200px
+      +breakpoint($phone)
+        max-width: 100px
+      margin: 0 auto
+      display: block
+
+  #secondary-navigation
+    +span(33.3334%)
+    text-align: right
+    display: inline-block
+    margin: 10px auto
+    text-transform: uppercase
+    font-size: 0.875em
+    +breakpoint($phone)
+      display: none
+    a
+      color: $gold
+      -webkit-transition: all 0.3s ease-in-out
+      -moz-transition: all 0.3s ease-in-out
+      -o-transition: all 0.3s ease-in-out
+      transition: all 0.3s ease-in-out
+      &:hover
+        color: $primary
+    #primary-sidebar
+      float: right
+      margin-right: 0
+      display: none
+      #icl_lang_sel_widget-4
+        text-align: right
+        display: block
+      #lang_sel_click
+        text-align: left
+        z-index: 1
+        position: relative
+
+        ul
+          margin: 11px 0 !important
+          float: right
+        li
+          max-width: 80px
+        a.lang_sel_sel
+          background-color: transparent
+          color: $gold
+          border: none
+          line-height: 1.4
+        ul ul
+          border: none
+          margin: 0 !important
+        ul ul a
+          background-color: transparent
+          color: $gold
+          border: none
+          -webkit-transition: all 0.3s ease-in-out
+          -moz-transition: all 0.3s ease-in-out
+          -o-transition: all 0.3s ease-in-out
+          transition: all 0.3s ease-in-out
+        ul ul a:hover,ul ul a:active
+          color: $primary
+    >div
+      display: inline-block
+      float: right
+      margin-right: 10px
+      .menu li
+        display: inline-block
+        margin: 0 0 0 15px
+        text-align: right
+        &:nth-child(2)
+          background: url(../images/storelocatoricon.png) left center no-repeat
+          background-size: 16px 16px
+          padding: 2px 5px
+          padding-left: 22px
+          &:hover
+            background: url(../images/storelocatoriconHover.png) left center no-repeat
+            background-size: 16px 16px
+          a
+            color: $gold
+            -webkit-transition: all 0.3s ease-in-out
+            -moz-transition: all 0.3s ease-in-out
+            -o-transition: all 0.3s ease-in-out
+            transition: all 0.3s ease-in-out
+            &:hover
+              color: $primary
+          +breakpoint($phone)
+            background: none
+        a:hover
+          color: $primary
+
+
+      
+

@@ -1,0 +1,2026 @@
+// *************************************
+//
+//    Layout
+//   -> Margin, Padding, Sizing
+//
+// *************************************
+html, body
+  position: relative
+
+body
+  color: #FFF
+  background-position: center center
+  background-size: cover
+  position: relative
+  background-color: #000
+  background-image: url('../images/bg_generic_white.jpg') 
+  +breakpoint($phone)
+    position: static!important
+
+footer
+  display: none
+
+ul
+  padding: 0
+  list-style: none
+
+#loading
+  +bg-img("bgIntro.jpg", center center)
+  background-size: cover
+  position: absolute
+  min-width: 100%
+  min-height: 100%
+  top: 0
+  left: 0
+  z-index: 999999
+  display: block
+  h2
+    display: block
+    margin: 20px auto
+    color: $primary
+    font-size: 70px
+    text-align: center
+    margin-bottom: 20px
+  p
+    display: block
+    margin: 20px auto
+    text-align: center
+    color: $gold
+    font-size: 20px
+    text-transform: uppercase
+    margin-bottom: 50px
+  .logoIntro
+    +bg-img("logoIntro.png", center center)
+    width: 363px
+    height: 267px
+    margin: 150px auto 20px
+    display: block
+  .spinner
+    background-color: #000
+    width: 200px
+    height: 6px
+    margin: 50px auto 20px
+    display: block
+    div 
+      height: 100%
+      color: #fff
+      text-align: right
+      line-height: 6px
+      width: 0
+      background-color: $gold
+ 
+
+
+.span1
+  +span(1)
+  &:last-child
+    margin-right: 0
+.span2
+  +span(2)
+  &:last-child
+    margin-right: 0
+
+.span3
+  +span(3)
+  &:last-child
+    margin-right: 0
+
+.span4
+  +span(4)
+  +breakpoint($phone)
+    +span(12)
+  &:last-child
+    margin-right: 0
+
+.span6
+  +span(6)
+  &:last-child
+    margin-right: 0
+
+.span6tax
+  +span(3)
+  +push(3)
+  &:last-child
+    +push(0)
+    margin-right: 0
+  +breakpoint($big)
+    +span(6)
+    +push(0) 
+  +breakpoint($phone)
+    +span(12)
+    +push(0)
+
+.span12
+  +span(12)
+
+.home #masthead, .page #masthead
+  position: absolute
+  top: 0
+  left: 0
+  z-index: 9999
+  +span(12)
+  +container(width 100%)
+  +breakpoint($phone)
+
+.home #featured-content
+  position: absolute
+  top: 0
+  left: 0
+  z-index: 1
+
+
+h1.site-title
+  display: none
+  visibility: hidden
+
+
+.pulsante
+  border: 1px solid $gold
+  color: $gold
+  cursor: pointer
+  font-size: 1.2em
+  padding: 15px 35px
+  text-align: center
+  text-transform: uppercase
+  position: relative
+  transition: all 0.2s ease 0s
+  z-index: 999
+  display: block
+  max-width: 220px
+  +breakpoint($big)
+    max-width: 150px
+    padding: 10px 5px
+    font-size: 0.78em
+  max-height: 15px
+  line-height: 15px
+  margin: 0 auto
+  &:before
+    content: ''
+    position: absolute
+    left: 0
+    top: 0
+    display: block
+    width: 100%
+    height: 0px
+    background-color: $gold
+    z-index: -1
+    transition: all 0.25s ease 0s
+  &:hover
+    color: $black
+    height: 100%
+    &:before
+      height: 100%
+
+//INPIRATION
+
+.page-template-inspiration
+  .parallax-bg 
+    position: absolute
+    left: 0
+    top: 0
+    width: 150%
+    height: 150%
+    -webkit-background-size: cover
+    background-size: cover
+    background-position: center
+  .bgSection
+    position: absolute
+    left: 0
+    top: 0
+    width: 100%
+    height: 100%
+  .inspiration-image
+    +span(6)
+    margin-right: 0
+    img
+      display: block
+      text-align: center
+      margin: -40px auto
+      width: 100%
+      height: auto
+      display: block
+      
+    .inspiration-title
+      display: block
+      margin: 0 auto
+      font-size: 15em
+      text-align: left
+      color: $gold
+      position: relative
+      z-index: 999
+      line-height: .75em
+   
+      &:first-line
+        font-size: .35em
+        color: $primary
+        line-height: .5em
+
+  .inspiration-content
+    +span(last 4)
+    padding-top: 15%
+    padding-left: 3%
+
+    .entry-title
+      font-size: 6em
+      color: #000
+      margin-top: 70px
+      position: relative
+      display: block
+      &:before
+        content: ''
+        position: absolute
+        top: 90%
+        right: 33%
+        height: 2px
+        width: 130%
+        background-color: $gold
+        z-index: 999
+        display: block
+      &:after
+        content: ''
+        position: absolute
+        top: 90%
+        right: 33%
+        height: 26px
+        margin-top: -12px
+        width: 133%
+        margin-left: -25px
+        background-image: url('../images/giglio.png')
+        background-position: left center
+        background-size: auto auto
+        background-repeat: no-repeat
+        z-index: 999
+        display: block
+
+    .paragraph
+      font-family: $font-head
+      text-align: left
+      font-size: 2em
+      margin-bottom: 40px
+      color: #000
+
+
+
+
+//PAGE TEMPLATE HERITAGE .PULSANTE
+
+.page-template-heritage
+  .ms-section
+    background-size: cover
+    +breakpoint($tablet-landscape)
+      background-size: 100% auto
+      background-repeat: no-repeat
+  .ms-left .ms-section
+    background-position: top left
+    +breakpoint($tablet-landscape)
+      background-position: top right
+      background-size: 100% 100%
+    +breakpoint($tablet-portrait)
+      background-position: top right
+      background-size: auto 100%
+
+  .ms-right .ms-section
+    background-position: top right
+    +breakpoint($tablet-landscape)
+      background-position: top left
+      background-size: 100% 100%
+    +breakpoint($tablet-portrait)
+      background-position: top left
+      background-size: auto 100%
+    
+  img
+    display: none
+
+  .ms-left .content-canvas
+    display: none
+
+  .ms-right .content-canvas
+    position: absolute
+    right: 0
+    top: 50%
+    -webkit-transform: translateY(-50%)
+    -ms-transform: translateY(-50%)
+    transform: translateY(-50%)
+    z-index: 99999
+    width: 200%
+    +breakpoint($phone_land)
+      top: 40%
+
+  .pulsante
+    opacity: 0
+    width: 150px
+    display: block
+    margin: 0 auto
+
+  .entry-content
+    opacity: 0
+    p
+      color: $gold
+      text-transform: uppercase
+      font-size: 1.5em
+      +breakpoint($tablet-landscape)
+        font-size: 1.2em
+      +breakpoint($phone)
+        font-size: 0.78em
+      +center(8)
+      margin: 30px auto 50px
+      text-align: center
+      +breakpoint($phone)
+        margin: 30px auto 10px
+  .entry-header
+    opacity: 0
+    h1.entry-title
+      font-size: 70px
+      margin-bottom: 20px
+      text-align: center
+      +breakpoint($big)
+        font-size: 50px
+      +breakpoint($phone)
+        +center(8)
+        font-size: 25px
+        margin-top: 20%
+  
+  .puls-group
+    opacity: 0
+    +center(12)
+    display: block
+    margin: 0 auto
+    text-align: center
+
+    .inline
+      display: inline-block
+      margin: 0 15px
+      +breakpoint($phone)
+        margin-top: 10px
+      &:nth-child(1):nth-last-child(1)
+        display: block
+        margin: 0 auto
+  .blackVeilMotivBlack 
+    position: absolute
+    background: rgba(0,0,0,0.7)
+    left: 0
+    top: 0
+    width: 100%
+    height: 100%
+    z-index: 1
+  #multiscroll-nav li span
+    border: 0 !important
+    background-color: rgba(255, 255, 255, 0.1)!important
+  #multiscroll-nav li .active span
+    background-color: $gold!important
+    
+
+      
+  
+//PAGE TEMPLATE CARING E STRAIGHTENING (SWITCH DI CATEGORIA)
+
+.page-template-caring .main-content .site-content > div, .page-template-straightening .main-content .site-content > div
+  height: 100%
+  position: relative
+  +span(50%)
+  +breakpoint($phone)
+    +span(12)
+    overflow: auto
+  margin: 0
+  display: -webkit-box
+  display: -moz-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-flex-direction: column
+  flex-direction: column
+  -webkit-box-pack: center
+  -ms-flex-pack: center
+  -webkit-justify-content: center
+  justify-content: center
+  -webkit-box-align: center
+  -ms-flex-align: center
+  -webkit-align-items: center
+  align-items: center
+  text-align: center
+  background-position: center center
+  background-size: cover
+  background-repeat: no-repeat
+  .content-range
+    text-align: center
+    display: none
+    +center(12)
+    .range-name
+      font-size: 1.2em
+      font-family: $font-fam
+
+    .category-name
+      font-size: 3.5em
+      +breakpoint($phone)
+        font-size: 2.5em
+
+    .category-description
+      +center(6)
+      margin-bottom: 40px
+
+.tax-caring-line.term-dry-damaged-hair, .tax-caring-line.term-secchi-danneggiati 
+  .header_main
+    +bg-img("caring_dry_top.jpg", center center)
+    background-size: cover
+
+.tax-caring-line.term-normal-dry-hair, .tax-caring-line.term-normali-secchi
+  .header_main
+    +bg-img("caring_normal_top.jpg", center center)
+    background-size: cover
+   
+
+
+
+//TAX TEMPLATE COLORING (SWITCH DI CATEGORIA)
+
+.tax-coloring-line
+  .category-description
+    +center(6)
+    text-transform: normal
+    font-family: $font-fam
+    text-align: center
+    font-size: 1.2em
+    color: #8e8e8e
+    margin-bottom: 20px!important
+    +breakpoint($big)
+      font-size: 1em
+      +center(8)
+    +breakpoint($tablet-portrait)
+      +center(10)
+  .content-tax
+    max-width: $l-maxWidth
+    +center(12)
+    text-align: center
+    +breakpoint($big)
+      +center(8)
+    article
+      +span(2 of 12)
+      float: none
+      margin-right: 1.72414%
+      margin-left: 1.72414%
+      &:nth-child(1):nth-last-child(1)
+        +span(12)
+        float: none
+      &:nth-child(6n+1)
+      +breakpoint($big)
+        +span(4 of 12)
+        float: none
+        margin-right: 0!important
+        &:nth-child(1):nth-last-child(1)
+          +span(12)
+          float: none
+      +breakpoint($phone)
+        +span(12)
+      .pulsante
+        padding: 15px 0
+        
+      
+
+    .color-thumb
+      border-radius: $cerchio-borderRadius
+      border: 5px solid #FFF
+      width: 150px
+      height: 150px
+      max-height: 150px
+      min-height: 150px
+      +breakpoint($big)
+        width: 100px
+        height: 100px
+        max-height: 100px
+        min-height: 100px
+
+    .product-content .product-title
+      font-size: 1.2em
+      line-height: 2em
+      margin-bottom: 1em
+      min-height: 100px
+      +breakpoint($big)
+        font-size: 1em!important
+      &:first-line
+        font-size: 2em
+      +breakpoint($tablet-landscape)
+        min-height: 50px
+      +breakpoint($phone)
+        min-height: 30px
+
+.term-yellow-remover,.term-yellow-remover-pl
+  .content-tax
+    max-width: $l-maxWidth
+    +center(12)
+    +breakpoint($big)
+      +center(8)
+    +breakpoint($phone)
+      +center(12)
+    article
+      +center(12)
+      float: none
+      display: block!important
+      padding-top: 420px
+      +breakpoint($big)
+        padding-top: 360px
+      +breakpoint($phone)
+        margin-top: 0px
+      .color-thumb
+        border: 0
+        width: auto
+        height: auto
+        max-height: auto
+        min-height: auto
+        +breakpoint($phone)
+          margin-top: 40px
+
+
+.tax-caring-line .header_main ,.tax-coloring-line .header_main
+  background-size: 100% auto
+
+
+
+//PAGE TEMPLATE COLORING
+body.page-template-coloring
+  background: #000
+.page-template-coloring  .main-content .site-content .coloring-content
+  +center(8)
+  padding-top: 220px
+  +breakpoint($big)
+    padding-top: 150px
+  +breakpoint($tablet-portrait)
+    +center(12)
+    padding-top: 150px
+
+.page-template-coloring  .main-content .site-content .coloring-content > div
+  height: 100%
+  position: relative
+  margin: 0
+  background-position: center center
+  background-size: cover
+  background-repeat: no-repeat
+  &:nth-of-type(1), 
+  &:nth-of-type(2)
+    +span(50%)
+    margin: 0
+    +breakpoint($phone)
+      +span(12)
+  +span(33.3333%)
+  margin: 0
+  +breakpoint($phone)
+    +span(12)
+  .content-range
+    text-align: center
+    +center(12)
+    margin: 20% auto
+    text-align: center
+    
+    .range-name
+      font-size: 1.5em
+
+    .category-name
+      font-size: 3em
+
+    .category-description
+      +center(6)
+      margin-bottom: 40px
+
+
+/* TAXANOMY PAGE */
+
+.archive #masthead
+  display: block
+  +span(12)
+  background-position: top center
+  background-repeat: no-repeat
+  +breakpoint($phone)
+    background-size: cover
+
+.line-header
+  +center(12)
+  text-align: center
+  clear: both
+  padding-top: 10px
+  position: relative
+  .line-title
+    margin-top: 10px
+    margin-bottom: 5px
+
+
+  .category-title
+    font-family: $font-fam
+    text-transform: uppercase
+    font-size: 1em
+
+
+.archive article
+  text-align: center
+  position: relative
+  margin-top: 30px 
+  margin-bottom: 30px
+  display: none
+  img
+    text-align: center
+    width: auto
+    height: auto
+    min-height: 350px
+    max-height: 400px
+    +breakpoint($big)
+      min-height: 150px
+      max-height: 250px
+
+
+  .product-content
+    color: #000
+    margin-top: 20px
+    .product-title
+      color: $gold
+      margin-bottom: 5px
+      font-weight: 700
+      min-height: 50px
+      display: -webkit-box
+      display: -moz-box
+      display: -ms-flexbox
+      display: -webkit-flex
+      display: flex
+      -webkit-flex-direction: column
+      flex-direction: column
+      -webkit-box-pack: center
+      -ms-flex-pack: center
+      -webkit-justify-content: center
+      justify-content: center
+      -webkit-box-align: center
+      -ms-flex-align: center
+      -webkit-align-items: center
+      align-items: center
+      text-align: center
+      &:first-line
+        font-size: 2em
+      +breakpoint($big)
+        min-height: auto
+        font-size: 2em!important
+      +breakpoint($phone)
+        display: block
+    .pulsante
+      +breakpoint($phone)
+        margin-bottom: 30px
+
+    .product-description
+      margin: 10px auto
+      max-width: 50%
+      display: block
+      p
+        padding: 0
+        margin: 0
+        font-size: 1.125em
+
+      .detail
+        font-size: 0.875em
+
+.post-type-archive article
+  margin: 0
+  padding: 0
+
+
+.post-type-archive article, .single article
+  .group-name
+    color: $secondary
+    text-transform: uppercase
+    font-size: 1em
+  .sub-group-name
+    color: $secondary
+    text-transform: uppercase
+    font-size: 1em
+    display: block
+  .product-image
+    img
+      max-height: 100%
+      +breakpoint($big)
+        max-height: 70%
+      +breakpoint($phone)
+        max-height: 100%
+    a
+      +breakpoint($phone)
+        margin-bottom: 30px
+     
+  .product-content
+    width: 50%
+    color: $primary
+    +breakpoint($phone)
+      +span(12)
+      padding: 25% 0 0
+  .product-title
+    color: $primary
+    +center(8)
+  .product-description
+    width: 50%
+    margin: 0 auto
+    font-size: 1em
+
+
+
+.post-type-archive #masthead, .single #masthead, .tax-straightening-line #masthead
+  position: absolute
+.tax-straightening-line #masthead
+  background-image: none !important
+
+.tax-straightening-line.archive article
+  margin-bottom: 0
+
+.single #masthead #logo, .post-type-archive #masthead #logo, .tax-straightening-line #masthead #logo,
+.single #masthead #secondary-navigation, .post-type-archive #masthead #secondary-navigation, .tax-straightening-line #masthead #secondary-navigation,
+.single #masthead .line-header, .post-type-archive #masthead .line-header, .tax-straightening-line #masthead .line-header
+  display: none
+
+.single .archive-header, .post-type-archive .archive-header, .tax-straightening-line .archive-header
+  display: none
+
+.tax-straightening-line article .product-image
+  height: 100%
+  
+.single article, .post-type-archive article, .tax-straightening-line article /* L'altezza è gestita da function.js */
+  +span(12)
+  text-align: center
+  position: relative
+  overflow: hidden
+  clear: both
+  margin-top: 0
+  +breakpoint($phone)
+    overflow: auto
+  .product-image
+    +span(50%)
+    margin-right: 0
+    display: -webkit-box
+    display: -moz-box
+    display: -ms-flexbox
+    display: -webkit-flex
+    display: flex
+    -webkit-flex-direction: column
+    flex-direction: column
+    -webkit-box-pack: center
+    -ms-flex-pack: center
+    -webkit-justify-content: center
+    justify-content: center
+    -webkit-box-align: center
+    -ms-flex-align: center
+    -webkit-align-items: center
+    align-items: center
+    text-align: center
+    height: 100%
+    +breakpoint($phone)
+      display: block
+      float: left
+      +span(12)
+    
+    img
+      text-align: center
+      width: 50%
+      height: auto
+      max-height: 600px
+      order: -1
+      align-self: center
+      margin-bottom: 40px
+      +breakpoint($big)
+        width: auto
+        max-height: 350px
+
+    a
+      display: block
+      margin-top: auto
+      +breakpoint($phone)
+        margin-bottom: 30px
+    
+
+  .product-content
+    +span(50%)
+    margin-top: 0
+    margin-right: 0
+    background: #000
+    height: 100%
+    display: -webkit-box
+    display: -moz-box
+    display: -ms-flexbox
+    display: -webkit-flex
+    display: flex
+    -webkit-flex-direction: column
+    flex-direction: column
+    -webkit-box-pack: center
+    -ms-flex-pack: center
+    -webkit-justify-content: center
+    justify-content: center
+    -webkit-box-align: center
+    -ms-flex-align: center
+    -webkit-align-items: center
+    align-items: center
+    text-align: center
+    +breakpoint($phone)
+      display: block
+      float: left
+      +span(12)
+  
+    .group-name
+      color: $secondary
+      text-transform: uppercase
+      font-size: 1em
+    .sub-group-name
+      color: $secondary
+      text-transform: uppercase
+      font-size: 1em
+      display: block
+    .product-header
+      margin-top: 20px
+      +breakpoint($big)
+        margin-top: 0px
+      .product-title
+        font-size: 3.750em
+        color: $primary
+        font-weight: 400
+        +breakpoint($big)
+          font-size: 3em
+    .product-description
+      margin: 10px auto 40px
+      font-size: 1.375em
+      +breakpoint($big)
+        font-size: 1em
+      p
+        margin: 10px auto
+    a
+      margin-top: auto
+    a.show-benefit
+      +breakpoint($phone)
+        display: none
+
+    .paragraph-title
+      color: $primary
+      font-size: 1.5em
+      +breakpoint($big)
+        font-size: 1.2em
+      text-transform: uppercase
+      margin: 30px auto 10px
+      display: block
+    .paragraph
+      font-size: 0.875em
+      +breakpoint($big)
+        font-size: .78em
+      text-transform: uppercase
+      color: $secondary
+      margin: 5px auto
+      display: block
+    .sub-paragraph-title
+      font-family: $font-head
+      font-size: 1em
+      +breakpoint($big)
+        font-size: 1em
+      color: $gold
+      text-transform: uppercase
+      display: block
+      margin: 30px auto 10px
+    .sub-paragraph
+      font-size: 0.875em
+      +breakpoint($big)
+        font-size: .78em
+      color: $secondary
+      display: block
+      margin: 5px auto
+    .size-title
+      font-family: $font-head
+      text-transform: uppercase
+      font-size: 0.875em
+      color: $gold
+      margin: 30px auto 10px
+      display: block
+    .size-text
+      font-size: .75em
+      color: $secondary
+      margin: 5px auto
+      display: block
+
+  .product-image .vCenter, .product-content .vCenter
+    min-width: 100%
+
+.nav-single
+  position: absolute
+  top: 50%
+  display: block
+  margin-top: -150px
+
+
+
+//BACK BUTTON
+
+.back-category
+  +breakpoint($phone)
+    display: none
+//Diversa altezza del pulsante back
+.post-type-archive .back-category
+  top: 25%
+
+.content-tax .back-category
+  top: 50%
+
+.content-tax .back-category, .post-type-archive .back-category, .single .back-category
+  position: fixed
+  padding-top: 100px
+  left: 10px
+  width: 100px
+  z-index: 999
+  +breakpoint($tablet-portrait)
+    left: 0
+  a
+    color: $gold
+    text-align: center
+    line-height: 150%
+    margin: 0 auto
+    display: block
+    font-size: 1em
+    transition: all 0.2s ease 0s
+    +breakpoint($big)
+      font-size: 0.78em
+    &:after
+      content: ''
+      border: 2px solid $gold
+      border-radius: $cerchio-borderRadius
+      display: block
+      position: absolute
+      margin-top: -25%
+      top: 50%
+      left: 25px
+      width: 40px
+      height: 40px
+      transition: all 0.2s ease 0s
+    &:before
+      content: '\2190'
+      color: $gold
+      font-size: 1.375em
+      position: absolute
+      margin-top: -12px
+      margin-left: -12px
+      top: 50%
+      left: 50%
+    &:hover:after
+      background-color: $gold
+      z-index: -1
+    &:hover:before
+      color: $black
+
+
+//SHARE BUTTON
+.content-tax, 
+.post-type-archive, 
+.single, 
+.page-template-inspiration 
+  .share
+    position: fixed
+    padding-top: 100px
+    left: 10px
+    width: 100px
+    z-index: 999
+    top: 70%
+    display: block
+    +breakpoint($tablet-portrait)
+      left: 0
+      top: 80%
+    a
+      color: $gold
+      text-align: center
+      line-height: 150%
+      margin: 0 auto
+      display: block
+      font-size: 1em
+      transition: all 0.2s ease 0s
+      &:before
+        content: url("../images/share.png")
+        color: $gold
+        font-size: 2em
+        position: absolute
+        margin-top: -22px
+        margin-left: -25px
+        top: 50%
+        left: 50%
+      &:hover:after
+        z-index: -1
+      &:hover:before
+        content: url("../images/shareHover.png")
+    .socialBtn
+      display: none
+      width: 150px
+      position: absolute
+      top: 50%
+      left: 70px
+      margin-top: -22.5%
+
+      .fb,.tw,.pn
+        display: inline-block
+        &:before
+          content: ""
+
+
+
+
+.nav
+  position: fixed
+  top: 50%
+  left: 0
+  z-index: 100
+  +breakpoint($phone)
+    display: none
+
+
+.nav > .swiper-button-prev, .nav .prev
+  background-image: none
+  color: $gold
+  text-align: center
+  margin-top: 0
+  width: 100px
+  top: 0
+  transition: all 0.2s ease 0s
+  +breakpoint($tablet-portrait)
+    left: 0
+
+  &:after
+    content: ''
+    border: 2px solid $gold
+    border-radius: $cerchio-borderRadius
+    display: block
+    position: absolute
+    margin-top: -25%
+    top: 50%
+    left: 25px
+    width: 40px
+    height: 40px
+    transition: all 0.2s ease 0s 
+  &:before
+    content: '\2190'
+    color: $gold
+    font-size: 1.375em
+    position: absolute
+    margin-top: -13px
+    margin-left: -10px
+    top: 50%
+    left: 50%
+    -ms-transform: rotate(90deg)
+    -webkit-transform: rotate(90deg)
+    transform: rotate(90deg)
+  &:hover:after
+    background-color: $gold
+    z-index: -1
+  &:hover:before
+    color: $black
+
+
+.nav .swiper-button-next,.nav .next
+  background-image: none
+  color: $gold
+  text-align: center
+  margin-top: 0
+  width: 100px
+  top: 100px
+  left: 10px
+  +breakpoint($tablet-portrait)
+    left: 0
+  transition: all 0.2s ease 0s 
+  &:after
+    content: ''
+    border: 2px solid $gold
+    border-radius: $cerchio-borderRadius
+    display: block
+    position: absolute
+    margin-top: -25%
+    top: 50%
+    left: 25px
+    width: 40px
+    height: 40px
+    transition: all 0.2s ease 0s 
+  &:before
+    content: '\2190'
+    color: $gold
+    font-size: 1.375em
+    position: absolute
+    margin-top: -13px
+    margin-left: -14px
+    top: 50%
+    left: 50%
+    -ms-transform: rotate(-90deg)
+    -webkit-transform: rotate(-90deg)
+    transform: rotate(-90deg)
+  &:hover:after
+    background-color: $gold
+    z-index: -1
+
+  &:hover:before
+    color: $black
+
+
+.swiper-pagination-bullet
+  background-color: #FFF
+
+.order-product
+  color: $gold
+  left: 90px
+  top: 250px
+  width: 100px
+  position: absolute
+
+
+.post-type-archive article, .tax-straightening-line article
+  display: block
+  position: relative
+
+//BENEFIT
+
+.single .extras, .post-type-archive .extras, .tax-straightening-line .extras
+  visibility: hidden
+  background-color: #000
+  width: 100%
+  height: 100%
+  position: absolute
+  top: 0
+  left: 0
+  z-index: 9999
+  display: none
+  +breakpoint($phone)
+    display: block
+    visibility: visible
+    position: static
+    float: left
+  .benefits
+    +span(12)
+    height: 100%
+    >div
+      display: -webkit-box
+      display: -moz-box
+      display: -ms-flexbox
+      display: -webkit-flex
+      display: flex
+      -webkit-flex-direction: column
+      flex-direction: column
+      -webkit-box-pack: center
+      -ms-flex-pack: center
+      -webkit-justify-content: center
+      justify-content: center
+      -webkit-box-align: center
+      -ms-flex-align: center
+      -webkit-align-items: center
+      align-items: center
+      text-align: center
+      background-position: center center
+      background-size: cover
+      background-repeat: no-repeat
+      position: relative
+      +breakpoint($phone)
+        display: block
+        +span(12)   
+      .benefit-title
+        +span(12)
+        font-family: $font-head
+        font-size: 3.5em
+        margin-top: 0
+        +breakpoint($big)
+          font-size: 2.5em
+        +breakpoint($phone)
+          margin-top: 25%
+
+      .benefit-paragraph
+        +center(8)
+        font-family: $font-fam
+        color: $gold
+        font-size: 1.8em
+        margin-top: 0
+        +breakpoint($phone)
+          +center(10)
+        p
+          +breakpoint($big)
+            font-size: 0.78em
+
+      img
+        max-height: 100%
+        margin-top: 0
+
+    .span12
+      +span(12)
+      height: 100%
+    
+    .span6:nth-child(1):nth-last-child(2),
+    .span6:nth-child(2):nth-last-child(1)
+      +span(50%)
+      margin-right: 0 
+      height: 100%
+      +breakpoint($phone)
+        +span(12)
+      .benefit-title
+        +breakpoint($phone)
+          margin-top: 25%
+    .span6:nth-child(1):nth-last-child(3),
+    .span6:nth-child(2):nth-last-child(2),
+    .span6:nth-child(3):nth-last-child(1)
+      +span(50%)
+      margin-right: 0 
+      height: 50%
+      +breakpoint($phone)
+        +span(12)
+        height: 100%
+      .benefit-title
+        +breakpoint($phone)
+          margin-top: 25%
+    .span6:nth-child(2):nth-last-child(2)
+      clear: left
+    .span6:nth-child(3):nth-last-child(1)
+      height: 100%
+      float: right
+      position: absolute
+      top: 0
+      right: 0
+      display: block
+      +breakpoint($phone)
+        +span(12)
+        position: static
+
+      .benefit-title
+        margin-top: 48%
+        -webkit-transform: translateY(-50%)
+        -ms-transform: translateY(-50%)
+        transform: translateY(-50%)
+        line-height: 0.78em
+        +breakpoint($phone)
+          margin-top: 5%
+          -webkit-transform: translateY(0%)
+          -ms-transform: translateY(0%)
+          transform: translateY(0%)
+    .span6.kit:nth-child(3):nth-last-child(1)
+      .benefit-title
+        margin-top: 50px
+      img
+        +breakpoint($big)
+          max-height: 550px
+    .span6:nth-child(1):nth-last-child(4),
+    .span6:nth-child(2):nth-last-child(3),
+    .span6:nth-child(3):nth-last-child(2),
+    .span6:nth-child(4):nth-last-child(1)
+      +span(50%)
+      margin-right: 0 
+      height: 50%
+      +breakpoint($phone)
+        +span(12)
+        height: 100%
+    .span6:nth-child(4):nth-last-child(1).kit
+      img
+        max-height: 50%
+        max-width: 100%
+
+    .kit
+      +bg-img("bg_generic_white.jpg", center center)
+      color: $gold
+      .benefit-title, img
+        top: 10%
+        margin-bottom: 20px
+    
+  .close
+    width: 30px
+    height: 30px
+    background: url('../images/close.png') no-repeat center center
+    cursor: pointer
+    position: absolute
+    top: 10px
+    right: 20px
+    z-index: 9999
+  
+.tax-straightening-line #main-content article
+  text-align: center
+  background: transparent
+  display: -webkit-box
+  display: -ms-flexbox
+  display: -webkit-flex
+  display: flex
+  -webkit-box-pack: center
+  -ms-flex-pack: center
+  -webkit-justify-content: center
+  justify-content: center
+  -webkit-box-align: center
+  -ms-flex-align: center
+  -webkit-align-items: center
+  align-items: center
+  +breakpoint($phone)
+    display: block
+
+/* SWIPER */
+
+.page-template-heritage #main, 
+.page-template-heritage #main-content,
+.page-template-inspiration #main, 
+.page-template-inspiration #main-content, 
+.post-type-archive #main, 
+.post-type-archive #main-content
+
+
+  height: 100%
+  position: relative
+  .swiper-container 
+    width: 100%
+    height: 100%
+    margin-left: auto
+    margin-right: auto
+    +breakpoint($phone)
+      overflow: auto!important
+    
+    
+  .swiper-slide 
+    text-align: center
+    background: transparent
+    display: -webkit-box
+    display: -ms-flexbox
+    display: -webkit-flex
+    display: flex
+    -webkit-box-pack: center
+    -ms-flex-pack: center
+    -webkit-justify-content: center
+    justify-content: center
+    -webkit-box-align: center
+    -ms-flex-align: center
+    -webkit-align-items: center
+    align-items: center
+    +breakpoint($phone)
+      display: block
+      overflow: auto!important
+    .bg 
+      position: absolute
+      left: 0
+      top: 0
+      width: 100%
+      +breakpoint($phone)
+        height: 100%
+        width: auto
+
+    .blackVeilMotivBlack 
+      position: absolute
+      background: rgba(0,0,0,0.7)
+      left: 0
+      top: 0
+      width: 100%
+      height: 100%
+      z-index: 1
+
+    .content-canvas
+      position: absolute
+      top: 50%
+      left: 0
+      z-index: 2
+      margin-top: -100px
+      +span(12) 
+/* Paginator for Heritage page */
+
+.page-template #main .swiper-container, 
+.page-template #main-content .swiper-container
+  +breakpoint($phone)
+    overflow: auto!important
+  .swiper-pagination
+    left: 30px
+    .swiper-pagination-bullet-active
+      background-color: $gold
+
+/*Paginator for post-type-archive */
+ 
+.post-type-archive .swiper-container
+  .swiper-pagination
+    left: 10px
+    +breakpoint($tablet-portrait)
+      left: 0
+    top: 67px
+    height: 20px
+    width: 100px
+    overflow: hidden
+    text-align: center
+    color: $gold
+    +breakpoint($phone)
+      overflow: auto!important
+
+    .swiper-pagination-bullet
+      height: 20px
+      display: none
+      margin: 0 auto
+      width: 20px
+      text-align: center
+
+    .swiper-pagination-bullet-active
+      background-color: transparent
+      display: block
+      width: 20px
+      text-align: center
+
+.scrollIcon
+  +bg-img("scrollIcon.png", center center)
+  width: 35px
+  height: 35px
+  position: fixed
+  bottom: 10px
+  +center(12)
+  display: none
+  z-index: 99
+  
+    
+.bgHeader, .bgCat
+  display: none
+
+//FrontPage & Heritage VIDEO
+.page-template-heritage, .page-template-front-page, .home
+  .videoWrapper
+    +center(8)
+    margin-top: 100px
+
+    .video
+      position: relative
+      padding-top: 56.25%
+      width: 100%
+      max-width: 100%
+    .video object,.video embed, .video iframe
+      position: absolute
+      top: 0
+      left: 0
+      width: 100%
+      height: 100%
+    iframe
+      border: 10px solid rgba(255, 255, 255, 0.3)
+    
+    .close
+      width: 30px
+      height: 30px
+      background: url('../images/close.png') no-repeat center center
+      cursor: pointer
+      position: absolute
+      top: -7px
+      right: -65px
+      z-index: 9999
+
+body.page-template-contact #masthead
+  background-color: #000
+body.page-template-contact
+  background-image: url(../images/bg-contacts.jpg)
+  background-position: center center
+  background-size: cover
+  background-repeat: no-repeat
+  +breakpoint($phone)
+    background-size: auto 100%
+    background-attachment: fixed
+    height: 900px
+  +breakpoint($phone_land)
+    background-size: 100% 100%
+
+  .contact
+    +center(12)
+    padding-top: 250px
+    +breakpoint($big)
+      padding-top: 150px
+    +breakpoint($phone)
+      padding-top: 70px
+    .titleContact
+      +center(12)
+      margin-bottom: 10px
+      font-family: $font-head
+      font-size: 2em
+      text-align: center
+      +breakpoint($phone)
+        padding-top: 30px
+    p
+      +center(12)
+      margin-bottom: 30px
+
+    .form-content
+      +center(6)
+      display: block
+      margin: 0 auto
+      text-align: center
+      +breakpoint($big)
+        +center(10)
+      p
+        +center(12)
+        margin-bottom: 30px
+      form
+        font-family: $font-fam
+        p
+          +span(6)
+          font-size: 1em
+          padding-bottom: 10px
+          margin-bottom: 0
+          &:nth-child(2n)
+            +span(6 last)
+            +breakpoint($phone)
+              +span(12)
+          +breakpoint($phone)
+            +span(12)
+
+          input, textarea
+            background: transparent
+            width: 97.5%
+            color: #FFF
+            display: block
+            appearance: none
+            box-shadow: none
+            border-radius: none
+            border: 1px solid rgba(255, 255, 255, 0.5)
+            padding: 10px 0 10px 2.5%
+
+            -webkit-input-placeholder
+              color: #444
+            -moz-placeholder
+              color: #909
+              opacity: 1
+            -moz-placeholder
+              color: #444
+              opacity: 1
+            -ms-input-placeholder
+              color: #444
+            &:focus, &:focus
+              outline: 0
+          input[type="text"], input[type="email"],input[type="tel"]
+            height: 24px
+        p.textarea
+          +span(12)
+        p.captcha
+          input[type="text"]
+            +span(8)
+            +breakpoint($phone)
+              +span(12)
+          img
+            margin-top: 10px
+        p.privacy
+          margin-top: 15px
+          text-align: left
+          input[type="checkbox"]
+            +span(1)
+            text-align: right
+
+          a 
+            color: $gold
+
+        p.submit
+          +center(6)
+          float: none 
+          +breakpoint($phone)
+            +span(12)
+
+          .wpcf7-submit
+            +span(12)
+            border: 1px solid $gold
+            color: $gold
+            cursor: pointer
+            padding: 15px 35px
+            text-align: center
+            text-transform: uppercase
+            position: relative
+            transition: all 0.2s slideInDown 0s
+            z-index: 999
+            display: block
+            margin: 40px auto
+            &:hover
+              background-color: $gold
+              color: $black
+              height: 100%
+
+        span.wpcf7-not-valid-tip
+          color: #FFF
+          text-align: left
+          float: left
+        div.wpcf7-validation-errors, .wpcf7-mail-sent-ok
+          +center(46.646%)
+          background: $gold
+          color: $black
+          border: 0
+          position: absolute
+          top: 200px
+
+/* STORE LOCATOR */
+.page-template-store-locator
+  background-image: url(../images/bg-store-locator.jpg)
+  background-repeat: no-repeat
+  background-size: cover
+  background-position: center 178px
+  background-attachment: fixed
+  +breakpoint($tablet-landscape)
+    background-size: auto
+  +breakpoint($phone)
+    background-size: cover
+    background-position: center 100px
+    height: 500px
+    
+
+  #masthead
+    background: $black
+
+  .store-locator
+    +center(12)
+    text-align: center
+    padding-top: 180px
+    +breakpoint($tablet-landscape)
+      padding-top: 150px
+    +breakpoint($phone)
+      padding-top: 80px
+    .searchTitle
+      display: block
+      padding: 30px auto
+      font-family: $font-head
+      font-size: 2.5em
+    .store-locator-content
+      +span(12)
+      display: block
+      position: relative
+      height: 100%
+      min-height: 100%
+      
+      .paragraph
+        font-size: 1.4em
+
+      .store-grid
+        +center(10)
+        display: none
+        margin-top: 100px
+        .store-grid-item
+          +center(3)
+          float: none
+          display: inline-block
+          margin: 20px auto
+          +breakpoint($tablet-landscape)
+            +center(6)
+          +breakpoint($phone)
+            +center(12)
+
+          .title
+            display: block
+            font-size: 1.2em
+            padding: 30px 0
+            color: $gold
+            font-family: $font-head
+            text-transform: uppercase
+          .address
+            display: block 
+            font-size: 1em
+            margin-bottom: 30px
+            text-transform: lowercase
+          .tel
+            display: block
+            font-size: 0.85em
+            margin-bottom: 30px
+            color: $primary
+            margin: 30px auto
+            display: block
+            &:hover
+              color: $gold
+          .email
+            display: block
+            font-size: 1em
+            margin-bottom: 30px
+            color: #646464
+            margin: 10px auto
+            display: block
+            &:hover
+              color: $gold
+          a.pulsante
+            max-width: 120px
+            max-height: 15px
+            font-size: 1em
+            padding: 10px 5px
+            display: block
+            margin: 20px auto
+
+
+
+
+      form
+        position: relative
+        z-index: 11 
+        input
+          width: 97.5%
+          color: #FFF
+          display: block
+          appearance: none
+          box-shadow: none
+          border-radius: none
+          border: 1px solid rgba(255, 255, 255, 0.5)
+          padding: 10px 0 10px 2.5%
+          -webkit-input-placeholder
+            color: #444
+          -moz-placeholder
+            color: #909
+            opacity: 1
+          -moz-placeholder
+            color: #444
+            opacity: 1
+          -ms-input-placeholder
+            color: #444
+          &:focus, &:focus
+            outline: 0
+        input[type="text"]
+          height: 24px
+          background: rgba(0, 0, 0, 0.9)
+        input[type="submit"]
+          +span(12)
+          border: 1px solid $gold
+          color: $gold
+          cursor: pointer
+          padding: 15px 0 15px 0
+          text-align: center
+          text-transform: uppercase
+          position: relative
+          transition: all 0.2s slideInDown 0s
+          z-index: 999
+          display: block
+          margin: 10px auto 40px
+          &:hover
+            background-color: $gold
+            color: $black
+            height: 100%
+        a.backMap
+          display: none
+          font-size: 1.2em
+        .searchImg
+          display: none
+   
+      form.center
+        +center(290px)
+      form.right
+        +span(12)
+        background: #222222
+        input[type="text"]
+          +span(2)
+          float: right
+          background: $primary
+          color: $secondary
+          margin: 24px 0
+          margin-right: 2.5%
+          padding: 10px 5px
+          +breakpoint($tablet-landscape)
+            +span(3)
+            float: right
+          +breakpoint($phone)
+            +span(9)
+            float: right
+        input[type="submit"]
+          display: none
+        .searchImg
+          +span(1 last)
+          display: block
+          height: 44px
+          width: 44px
+          margin: 24px 0
+          padding: 0
+          border-color: #000
+        
+        
+      p.geolocalBtn
+        clear: both
+        display: block
+        span
+          display: block
+          margin: 30px 0
+      #status
+        background: $gold
+        color: $black
+        +center(12)
+        margin-bottom: 20px
+        padding: 5px 0
+        font-size: 1.2em
+        display: none
+
+      .overlayMap
+        display: none
+        +span(12)
+        height: 100%
+        min-height: 100%
+        top: 94px
+        left: 0
+        z-index: 3
+        background: rgba(0,0,0,0.7) url('../images/loader.gif') center center no-repeat 
+        position: absolute
+      #map_canvas
+        display: block
+        +span(12)
+        height: 100%
+        min-height: 100%
+        top: 0
+        left: 0
+        z-index: 2
+        .dettaglio
+          line-height: 2em
+          a.pulsante
+            max-width: 120px
+            max-height: 10px
+            font-size: 1em
+            padding: 10px 5px
+            display: block
+            margin: 10px auto
+        .gm-style .gm-style-iw
+          color: #000
+          font-size: 1.2em
+          .nameStore
+            font-size: 1.8em
+            line-height: 2em
+            color: $gold
+        img
+          max-width: none
+  .store-locator-content.left
+    +span(50%)
+    margin-right: 0
+    +breakpoint($phone)
+      +span(12)
+    form.right.details
+      width: 200%
+      +breakpoint($phone)
+        width: 100%
+      a.backMap
+        +span(2)
+        display: block
+        height: 24px
+        padding: 35px 0
+        margin-left: 1.5%
+        text-align: left
+        color: $primary
+        +breakpoint($tablet-landscape)
+          +span(6)
+          text-align: left
+          margin-left: 3%
+        +breakpoint($phone)
+          +center(12)
+          text-align: center 
+
+  .store-details
+    +span(6 last)
+    background: #000
+    display: none
+    margin: 120px auto
+    +breakpoint($phone)
+      +span(12)
+      margin-top: 100px
+    .store-name
+      font-size: 2em
+      padding: 30px 0
+      color: $gold
+      font-family: $font-head
+      text-transform: uppercase
+    .store-address 
+      font-size: 1.3em
+      margin-bottom: 30px
+      text-transform: lowercase
+    .store-tel
+      font-size: 1.2em
+      margin-bottom: 30px
+      color: $primary
+      margin: 30px auto
+      display: block
+      &:hover
+        color: $gold
+    .store-email
+      font-size: 1em
+      margin-bottom: 30px
+      color: #646464
+      margin: 10px auto
+      display: block
+      &:hover
+        color: $gold
+    .store-orario
+      +center(6)
+      margin: 30px auto
+      text-align: left
+      text-transform: uppercase
+      font-size: 1em
+      line-height: 2em
+      +breakpoint($phone)
+        +center(12)
+      .store-orario-title
+        font-size: 1.2em
+        display: block
+        margin-bottom: 20px
+
+  a.show-grid
+    +span(100%)
+    background: black
+    height: 20px
+    color: $gold
+    text-align: left
+    display: none  
+    position: fixed
+    padding: 30px 
+    bottom: 0px
+    margin: 0
+    z-index: 9999
+  a.show-map
+    +span(100%)
+    background: black
+    height: 20px
+    color: $gold
+    text-align: left
+    display: none  
+    position: fixed
+    padding: 30px 
+    bottom: 0px
+    margin: 0
+    z-index: 9999
+
+/*Cookie page*/
+
+body.page-template-cookie
+  background: #000
+  color: $primary
+  font-family: $font-fam
+  a
+    color: $gold
+    &:hover
+      color: $primary
+  ul
+    margin-left: 20px
+.page-template-cookie  .main-content .site-content
+  +center(8)
+  padding-top: 220px
+  +breakpoint($big)
+    padding-top: 150px
+  +breakpoint($tablet-portrait)
+    +center(12)
+    padding-top: 150px
+
+/* ANIMATED */
+
+.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 0.5s
+  animation-delay: 0.5s
+
+.entry-header.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 1s
+  animation-delay: 1s 
+
+.entry-content.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 1.5s
+  animation-delay: 1.5s
+
+//SEZIONI CARING COLOR STRAIGHTENING
+.page-template-caring .main-content .site-content > div, .page-template-coloring .main-content .site-content .coloring-content> div, .page-template-straightening .main-content .site-content > div
+  .content-range.animated
+    -webkit-animation-duration: 0.5s
+    animation-duration: 0.5s
+    -webkit-animation-delay: 2s
+    animation-delay: 2s
+    display: block
+  .range-name.animated
+    -webkit-animation-duration: 0.5s
+    animation-duration: 0.5s
+    -webkit-animation-delay: 3s
+    animation-delay: 3s 
+
+  .category-name.animated
+    -webkit-animation-duration: 0.5s
+    animation-duration: 0.5s
+    -webkit-animation-delay: 3.5s
+    animation-delay: 3.5s
+
+  .pulsante.animated
+    -webkit-animation-duration: 0.5s
+    animation-duration: 0.5s
+    -webkit-animation-delay: 4s
+    animation-delay: 4s
+
+
+//INTERNO CARING COLOR STRAIGHTNENING
+
+.category-title.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 2.5s
+  animation-delay: 2.5s 
+
+.line-title.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 3.5s
+  animation-delay: 3.5s
+
+.category-description.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 4s
+  animation-delay: 4s
+
+// PULSANTE HERITAGE
+.page-template-heritage .pulsante.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 2s
+  animation-delay: 2s
+.page-template-heritage .puls-group
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 2s
+  animation-delay: 2s
+  display: block  
+
+// PULSANTE CARING COLORING STRAGHTNENING
+.page-template-caring .pulsante.animated, .page-template-coloring .pulsante.animated, .page-tplate-straightnening .pulsante.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 4s
+  animation-delay: 4s
+  display: block
+
+// LISTA PRODOTTI
+.archive article.animated
+  -webkit-animation-duration: 0.5s
+  animation-duration: 0.5s
+  -webkit-animation-delay: 2s
+  animation-delay: 2s
+  display: inline-block
